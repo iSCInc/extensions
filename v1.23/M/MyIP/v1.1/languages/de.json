@@ -1,0 +1,9 @@
+{
+    "@metadata": {
+        "authors": [
+            "Suriyaa Sundararuban"
+        ]
+    },
+	"MyIP-desc": "Deine IP-Adresse findest du unter [[Special:MyIP|Spezialseite]].",
+	"MyIP-error": "Die Spezialseite hat Probleme, um deine IP-Adresse an zuzeigen.",
+}
