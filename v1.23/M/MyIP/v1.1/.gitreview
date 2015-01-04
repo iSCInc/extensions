@@ -1,6 +1,0 @@
-[gitblit]
-host=git.inc.isc/gitblit
-port=3447
-project=extensions/MyIO.git
-defaultbranch=master
-defaultrebase=0
