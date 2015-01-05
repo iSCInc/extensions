@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Giro720",
+			"Luckas",
+			"Luckas Blade",
+			"Rafael Vargas",
+			"555"
+		]
+	},
+	"apisb-desc": "Permite depurar chamadas do [//www.mediawiki.org/wiki/API API do MediaWiki] a partir do navegador",
+	"apisandbox": "Caixa de areia da API",
+	"apisb-no-js": "'''Erro''': este recurso requer JavaScript.",
+	"apisb-intro": "Use esta página para realizar testes com o '''serviço web de API do MediaWiki'''.\nConsulte a [//www.mediawiki.org/wiki/API:Main_page the API documentação] para obter mais detalhes de uso da API.  Exemplo: [//www.mediawiki.org/wiki/API#A_simple_example obter o conteúdo de uma Página principal].  Selecione uma ação para mais exemplos.",
+	"apisb-api-disabled": "A API está desabilitada neste site.",
+	"apisb-legend-parameters": "Parâmetros",
+	"apisb-legend-result": "Resultado",
+	"apisb-legend-generic-parameters": "Parâmetros genéricos",
+	"apisb-legend-generator-parameters": "Gerador",
+	"apisb-result-request-url": "URL solicitante:",
+	"apisb-result-request-post": "Dados POST:",
+	"apisb-label-format": "Formato",
+	"apisb-label-action": "Ação",
+	"apisb-label-doc": "Documentação",
+	"apisb-select-action": "Selecione a ação",
+	"apisb-select-value": "(selecionar valor)",
+	"apisb-docs-more": "leia mais",
+	"apisb-params-input": "Entrada",
+	"apisb-params-desc": "Descrição",
+	"apisb-loading": "Carregando...",
+	"apisb-load-error": "Erro ao carregar a descrição da API",
+	"apisb-request-error": "Erro na requisição de API",
+	"apisb-namespaces-error": "Erro carregando namespaces",
+	"apisb-ns-main": "(Principal)",
+	"apisb-submit": "Fazer requisição",
+	"apisb-query-prop": "Propriedades",
+	"apisb-query-list": "Listas",
+	"apisb-query-meta": "Meta informação",
+	"apisb-example": "Exemplo",
+	"apisb-examples": "Exemplos",
+	"apisb-clear": "Limpar",
+	"apisb-request-time": "Tempo do pedido: $1"
+}

@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Emperyan",
+			"Incelemeelemani",
+			"Joseph",
+			"Karduelis",
+			"SiLveRLeaD"
+		]
+	},
+	"apisb-no-js": "'''Hata:''' bu özellik JavaScript gerektiriyor.",
+	"apisb-legend-parameters": "Parametreler",
+	"apisb-legend-result": "Sonuç",
+	"apisb-legend-generic-parameters": "Genel parametreler",
+	"apisb-legend-generator-parameters": "Jeneratör",
+	"apisb-result-request-url": "İstek URL:",
+	"apisb-result-request-post": "POST verisi:",
+	"apisb-label-format": "Biçim",
+	"apisb-label-action": "Eylem",
+	"apisb-label-doc": "Belgeleme",
+	"apisb-select-action": "(eylem seçin)",
+	"apisb-select-value": "(değeri seçin)",
+	"apisb-docs-more": "devamı",
+	"apisb-params-input": "Giriş",
+	"apisb-params-desc": "Tanım",
+	"apisb-loading": "Yükleniyor...",
+	"apisb-load-error": "API tanımı yüklenirken hata oluştu",
+	"apisb-ns-main": "(Ana)",
+	"apisb-query-prop": "Özellikler",
+	"apisb-query-list": "Listeler",
+	"apisb-query-meta": "Meta bilgi",
+	"apisb-example": "Örnek",
+	"apisb-examples": "Örnekler",
+	"apisb-clear": "Temizle"
+}

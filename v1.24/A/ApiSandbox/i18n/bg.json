@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"DCLXVI",
+			"පසිඳු කාවින්ද"
+		]
+	},
+	"apisb-no-js": "'''Грешка''': тази функционалност изисква Джаваскрипт.",
+	"apisb-legend-parameters": "Параметри",
+	"apisb-legend-result": "Резултат",
+	"apisb-legend-generator-parameters": "Генератор",
+	"apisb-label-format": "Формат",
+	"apisb-label-action": "Действие",
+	"apisb-label-doc": "Документация",
+	"apisb-select-action": "Избиране на действие",
+	"apisb-params-desc": "Описание",
+	"apisb-loading": "Зареждане...",
+	"apisb-query-prop": "Свойства",
+	"apisb-query-meta": "Мета информация",
+	"apisb-example": "Пример",
+	"apisb-examples": "Примери",
+	"apisb-clear": "Изчистване"
+}

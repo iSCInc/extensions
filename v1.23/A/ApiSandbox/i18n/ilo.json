@@ -1,0 +1,41 @@
+{
+    "@metadata": {
+        "authors": [
+            "Lam-ang"
+        ]
+    },
+    "apisb-desc": "Agpalubos ti panag-ikkat ti kiteb ti [//www.mediawiki.org/wiki/API MediaWiki API] a tumawag manipud idiay pagbasabasa",
+    "apisandbox": "API a pagpsubokan",
+    "apisb-no-js": "''Biddut''': daytoy a langa ket makasapul ti JavaScript.",
+    "apisb-intro": "Usaren daytoy a panid ti panagsubok ti '''MediaWiki a serbisio ti web ti API'''.\nKitaen ti [//www.mediawiki.org/wiki/API:Main_page the API dokumentasion] para iti ad-adu pay a salaysay ti panag-usar ti API. Kas pagarigan: [//www.mediawiki.org/wiki/API#A_simple_example alaen ti linaon ti Umuna a Panid].  Agpili ti maaramid tapno makakita ti adu pay a kas pagarigan.\n\nLaglagipen nga uray daytoy ket pagipadasan, dagiti tignay nga aramidem iti daytoy a panid ket mabalin a mangbaliw iti wiki.",
+    "apisb-api-disabled": "Ti API ket nabaldado iti daytoy a pagsaadan.",
+    "apisb-legend-parameters": "Dagiti parametro",
+    "apisb-legend-result": "Nagbanagan",
+    "apisb-legend-generic-parameters": "Dagiti kadawyan a parametro",
+    "apisb-legend-generator-parameters": "Agpaandar",
+    "apisb-result-request-url": "Agkiddaw ti URL:",
+    "apisb-result-request-post": "POST a datos:",
+    "apisb-label-format": "Pormat",
+    "apisb-label-action": "Aramid",
+    "apisb-label-doc": "Dokumentasion",
+    "apisb-select-action": "(agpili ti aramid)",
+    "apisb-select-value": "(agpili ti kuenta)",
+    "apisb-docs-more": "agbasa pay ti dadduma",
+    "apisb-params-input": "Ti ikabil",
+    "apisb-params-desc": "Deskripsion",
+    "apisb-params-deprecated": "$1 (nasukatanen)",
+    "apisb-loading": "Agkarkarga...",
+    "apisb-load-error": "Biddut ti panagkarga ti deskripsion ti API",
+    "apisb-request-error": "Biddut i panagtungpal ti kiniddaw nga API",
+    "apisb-namespaces-error": "Biddut ti panag-karga dagiti nagan ti lugar",
+    "apisb-ns-main": "(Umuna)",
+    "apisb-submit": "Agaramid ti kiddaw",
+    "apisb-query-prop": "Dagiti tagikua",
+    "apisb-query-list": "Dagiti listaan",
+    "apisb-query-meta": "Pakaammo a meta",
+    "apisb-example": "Kas pagarigan",
+    "apisb-examples": "Dagiti kas pagarigan",
+    "apisb-clear": "Dalusan",
+    "apisb-request-time": "Oras ti kiddaw: $1",
+    "apisb-no-module-params": "Ti API ti modulo $1 ket saan a mangited kadagiti parametro"
+}

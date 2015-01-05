@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "John Reid"
+        ]
+    },
+    "apisb-params-param2": "Parameter fer $1",
+    "apisb-params-deprecated": "$1 (deprecated)",
+    "apisb-no-module-params": "API module $1 provides naw parameters"
+}

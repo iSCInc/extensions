@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Arlin",
+			"Sahran"
+		]
+	},
+	"apisb-desc": "توركۆرگۈدىن [//www.mediawiki.org/wiki/API MediaWiki API] سازلاشنى چاقىرىشقا يول قويىدۇ",
+	"apisandbox": "API قۇم ساندۇقى",
+	"apisb-no-js": "'''خاتا''': بۇ ئىقتىدار JavaScript نى تەلەپ قىلىدۇ",
+	"apisb-intro": "بۇ بەت ئارقىلىق '''MediaWiki تور مۇلازىمىتى ئەپ ئېغىزى (API)نى سىناڭ'''.\nبۇ API نى ئىشلىتىشنىڭ تەپسىلاتىنى بىلمەكچى بولسىڭىز [//www.mediawiki.org/wiki/API:Main_page the API قوللانمىسى]نى كۆرۈڭ. مەسىلەن: [//www.mediawiki.org/wiki/API#A_simple_example مەلۇم ئاساسىي بەتنىڭ مەزمۇنىغا ئېرىشىش]، ئاندىن بىر مەشغۇلاتنى تاللاپ تېخىمۇ كۆپ ئۈلگە مىسالنى كۆرۈڭ.",
+	"apisb-api-disabled": "مەزكۇر بېكەتتە API چەكلەندى.",
+	"apisb-legend-parameters": "پارامېتىر",
+	"apisb-legend-result": "نەتىجە",
+	"apisb-legend-generic-parameters": "ئۇنىۋېرسال پارامېتىرلار",
+	"apisb-legend-generator-parameters": "ھاسىللىغۇچ",
+	"apisb-result-request-url": "تەلەپ قىلغان URL:",
+	"apisb-result-request-post": "POST سانلىق مەلۇمات:",
+	"apisb-label-format": "پىچىم",
+	"apisb-label-action": "مەشغۇلات",
+	"apisb-label-doc": "قوللانمىلار",
+	"apisb-select-action": "(مەشغۇلاتنى تاللاڭ)",
+	"apisb-select-value": "(قىممەتنى تاللاڭ)",
+	"apisb-docs-more": "داۋاملىق",
+	"apisb-params-input": "كىرگۈز",
+	"apisb-params-desc": "چۈشەندۈرۈش",
+	"apisb-loading": "يۈكلەۋاتىدۇ…",
+	"apisb-load-error": "API چۈشەندۈرۈشنى يۈكلەشتە خاتالىق كۆرۈلدى.",
+	"apisb-request-error": "API ئىلتىماس ئىجرا قىلىش جەريانىدا خاتالىق كۆرۈلدى",
+	"apisb-namespaces-error": "ئىسىم بوشلۇق يۈكلەش خاتا",
+	"apisb-ns-main": "(ئاساسىي)",
+	"apisb-submit": "ئىلتىماس يوللا",
+	"apisb-query-prop": "خاسلىق",
+	"apisb-query-list": "تىزىملار",
+	"apisb-query-meta": "بەت ئۇچۇر",
+	"apisb-example": "مىسال",
+	"apisb-examples": "مىساللار",
+	"apisb-clear": "تازىلا",
+	"apisb-request-time": "ئىلتىماس ۋاقتى: $1"
+}

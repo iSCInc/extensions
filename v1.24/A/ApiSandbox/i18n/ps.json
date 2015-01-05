@@ -1,0 +1,26 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ahmed-Najib-Biabani-Ibrahimkhel"
+		]
+	},
+	"apisb-legend-result": "پايله",
+	"apisb-result-request-url": "د URL غوښتنه کول:",
+	"apisb-label-format": "بڼه",
+	"apisb-label-action": "چاره",
+	"apisb-label-doc": "لاسوند",
+	"apisb-select-action": "چاره ټاکل",
+	"apisb-select-value": "(ارزښت ټاکل)",
+	"apisb-docs-more": "نور لوستل",
+	"apisb-params-desc": "څرگندونه",
+	"apisb-loading": "برسېرېدنې کې دی...",
+	"apisb-ns-main": "(آرنی)",
+	"apisb-submit": "غوښته کول",
+	"apisb-query-prop": "ځانتياوې",
+	"apisb-query-list": "لړليکونه",
+	"apisb-query-meta": "مېټا مالومات",
+	"apisb-example": "بېلگه",
+	"apisb-examples": "بېلگې",
+	"apisb-clear": "سپينول",
+	"apisb-request-time": "د غوښتنې وخت: $1"
+}

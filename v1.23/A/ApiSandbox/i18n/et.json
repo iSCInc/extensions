@@ -1,0 +1,39 @@
+{
+    "@metadata": {
+        "authors": [
+            "Pikne"
+        ]
+    },
+    "apisb-desc": "Võimaldab veebilehitseja kaudu tehtud [//www.mediawiki.org/wiki/API MediaWiki API] päringutest vigu leida.",
+    "apisandbox": "API-liivakast",
+    "apisb-no-js": "'''Tõrge''': Selle funktsiooni jaoks on JavaScripti vaja.",
+    "apisb-intro": "Kasuta seda lehekülge '''MediaWiki API''' katsetamiseks.\nÜksikasjad API kasutamise kohta leiad [//www.mediawiki.org/wiki/API:Main_page API dokumentatsioonist]. Näide: [//www.mediawiki.org/wiki/API#A_simple_example esilehe sisu hankimine]. Vali toiming, et näha veel näiteid.\n\nPane tähele, et kuigi siin on liivakast, võivad siin leheküljel tehtud toimingud vikit muuta.",
+    "apisb-api-disabled": "API on selles võrgukohas keelatud.",
+    "apisb-legend-parameters": "Parameetrid",
+    "apisb-legend-result": "Tulemus",
+    "apisb-legend-generic-parameters": "Üldised parameetrid",
+    "apisb-legend-generator-parameters": "Generaator",
+    "apisb-result-request-url": "Päringu URL:",
+    "apisb-result-request-post": "POST-andmed:",
+    "apisb-label-format": "Vorming",
+    "apisb-label-action": "Toiming",
+    "apisb-label-doc": "Dokumentatsioon",
+    "apisb-select-action": "Vali toiming",
+    "apisb-select-value": "(vali väärtus)",
+    "apisb-docs-more": "loe veel",
+    "apisb-params-input": "Sisend",
+    "apisb-params-desc": "Kirjeldus",
+    "apisb-loading": "Laadimine...",
+    "apisb-load-error": "API kirjelduse laadimisel esines tõrge",
+    "apisb-request-error": "API-päringu sooritamisel esines tõrge",
+    "apisb-namespaces-error": "Nimeruumide laadimisel esines tõrge",
+    "apisb-ns-main": "(Põhinimeruum)",
+    "apisb-submit": "Tee päring",
+    "apisb-query-prop": "Atribuudid",
+    "apisb-query-list": "Loendid",
+    "apisb-query-meta": "Metaandmed",
+    "apisb-example": "Näide",
+    "apisb-examples": "Näited",
+    "apisb-clear": "Puhasta",
+    "apisb-request-time": "Päringuaeg: $1"
+}

@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anakmalaysia",
+			"Xabier Armendaritz"
+		]
+	},
+	"apisb-desc": "Membolehkan penyahpepijatan panggilan [//www.mediawiki.org/wiki/API MediaWiki API] dari pelayar",
+	"apisandbox": "Kotak pasir API",
+	"apisb-no-js": "'''Perhatian''': ciri ini memerlukan JavaScript.",
+	"apisb-intro": "Gunakan laman ini untuk bereksperimen dengan '''API perkhidmatan sesawang MediaWiki'''.\nRujuk [//www.mediawiki.org/wiki/API:Main_page dokumentasi API] untuk keterangan lanjut tentang penggunaan API.\nContoh: [//www.mediawiki.org/wiki/API#A_simple_example dapatkan kandungan Laman Utama].  Pilih satu tindakan untuk melihat banyak lagi contoh.",
+	"apisb-api-disabled": "API dimatikan di tapak web ini.",
+	"apisb-legend-parameters": "Parameter",
+	"apisb-legend-result": "Hasil",
+	"apisb-legend-generic-parameters": "Parameter am",
+	"apisb-legend-generator-parameters": "Penjana",
+	"apisb-result-request-url": "URL permohonan:",
+	"apisb-result-request-post": "Data POST:",
+	"apisb-label-format": "Format",
+	"apisb-label-action": "Tindakan",
+	"apisb-label-doc": "Dokumentasi",
+	"apisb-select-action": "Pilih tindakan",
+	"apisb-select-value": "(pilih nilai)",
+	"apisb-docs-more": "baca lagi",
+	"apisb-params-input": "Input",
+	"apisb-params-desc": "Keterangan",
+	"apisb-loading": "Memuatkan...",
+	"apisb-load-error": "Ralat ketika memuatkan keterangan API",
+	"apisb-request-error": "Ralat ketika melakukan permohonan API",
+	"apisb-namespaces-error": "Ralat ketika memuatkan ruang nama",
+	"apisb-ns-main": "(Utama)",
+	"apisb-submit": "Buat permintaan",
+	"apisb-query-prop": "Sifat",
+	"apisb-query-list": "Senarai",
+	"apisb-query-meta": "Maklumat meta",
+	"apisb-example": "Contoh",
+	"apisb-examples": "Contoh",
+	"apisb-clear": "Padamkan",
+	"apisb-request-time": "Waktu pemohonan: $1"
+}

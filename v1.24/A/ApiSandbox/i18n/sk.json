@@ -1,0 +1,37 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helix84",
+			"Sudo77(new)"
+		]
+	},
+	"apisandbox": "API pieskovisko",
+	"apisb-api-disabled": "API je na tejto stránke vypnuté.",
+	"apisb-legend-parameters": "Parametre",
+	"apisb-legend-result": "Výsledok",
+	"apisb-legend-generator-parameters": "Generátor",
+	"apisb-result-request-url": "URL požiadavky:",
+	"apisb-result-request-post": "Údaje POST:",
+	"apisb-label-format": "Formát",
+	"apisb-label-action": "Akcia",
+	"apisb-label-doc": "Dokumentácia",
+	"apisb-select-action": "Vyberte operáciu",
+	"apisb-select-value": "(vyberte hodnotu)",
+	"apisb-docs-more": "viac informácií",
+	"apisb-params-param2": "Parameter pre $1",
+	"apisb-params-input": "Vstup",
+	"apisb-params-desc": "Popis",
+	"apisb-params-deprecated": "$1(zastarané)",
+	"apisb-loading": "Načítava sa...",
+	"apisb-load-error": "Chyba pri načítaní popisu API",
+	"apisb-request-error": "Chyba pri realizácii požiadavky API",
+	"apisb-namespaces-error": "Chyba pri načítaní menných priestorov",
+	"apisb-ns-main": "(Hlavné)",
+	"apisb-submit": "Podať žiadosť",
+	"apisb-query-prop": "Vlastnosti",
+	"apisb-query-list": "Zoznamy",
+	"apisb-query-meta": "Metainformácie",
+	"apisb-example": "Príklad",
+	"apisb-examples": "Príklady",
+	"apisb-clear": "Vyčistiť"
+}

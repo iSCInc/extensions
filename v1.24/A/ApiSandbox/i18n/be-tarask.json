@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"EugeneZelenko",
+			"Jim-by",
+			"Wizardist",
+			"Red Winged Duck"
+		]
+	},
+	"apisb-desc": "Дазваляе налажваць выклікі [//www.mediawiki.org/wiki/API MediaWiki API] з браўзэра",
+	"apisandbox": "Пясочніца API",
+	"apisb-no-js": "'''Памылка''': гэтая магчымасьць патрабуе JavaScript.",
+	"apisb-intro": "Выкарыстоўвайце гэтую старонку для экспэрымэнтаў з '''API вэб-сэрвісу MediaWiki'''.\nЗьвяртайцеся да [//www.mediawiki.org/wiki/API:Main_page дакумэнтацыі API] для дадатковай інфармацыі па выкарыстаньні API. Напрыклад, [//www.mediawiki.org/wiki/API#A_simple_example як атрымаць зьмест галоўнай старонкі]. Абярыце дзеяньне, каб пабачыць болей узораў.\n\nЗьвярніце ўвагу, што нягледзячы на тое, што гэта пясочніца, вашыя дзеяньні могуць унесьці зьмены ў вікі.",
+	"apisb-api-disabled": "API забаронены на гэтым сайце.",
+	"apisb-legend-parameters": "Парамэтры",
+	"apisb-legend-result": "Вынік",
+	"apisb-legend-generic-parameters": "Агульныя парамэтры",
+	"apisb-legend-generator-parameters": "Генэратар",
+	"apisb-result-request-url": "URL-адрас запыту:",
+	"apisb-result-request-post": "POST-зьвесткі:",
+	"apisb-label-format": "Фармат",
+	"apisb-label-action": "Дзеяньне",
+	"apisb-label-doc": "Дакумэнтацыя",
+	"apisb-select-action": "Выбраць дзеяньне",
+	"apisb-select-value": "(выбраць значэньне)",
+	"apisb-docs-more": "даведацца болей",
+	"apisb-params-input": "Увод",
+	"apisb-params-desc": "Апісаньне",
+	"apisb-loading": "Загрузка…",
+	"apisb-load-error": "Немагчыма загрузіць апісаньне API",
+	"apisb-request-error": "Немагчыма апрацаваць запыт API",
+	"apisb-namespaces-error": "Немагчыма загрузіць прасторы назваў",
+	"apisb-ns-main": "(Асноўная)",
+	"apisb-submit": "Зрабіць запыт",
+	"apisb-query-prop": "Уласьцівасьці",
+	"apisb-query-list": "Сьпісы",
+	"apisb-query-meta": "Мэтазьвесткі",
+	"apisb-example": "Прыклад",
+	"apisb-examples": "Прыклады",
+	"apisb-clear": "Ачысьціць",
+	"apisb-request-time": "Час апрацоўкі запыту: $1"
+}

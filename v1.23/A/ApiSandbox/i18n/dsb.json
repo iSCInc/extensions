@@ -1,0 +1,42 @@
+{
+    "@metadata": {
+        "authors": [
+            "Michawiki"
+        ]
+    },
+    "apisb-desc": "Zmóžnja wótpóranje zmólkow pśi wołanju [//www.mediawiki.org/wiki/API MediaWiki API] z woglědowaka",
+    "apisandbox": "API-grajkanišćo",
+    "apisb-no-js": "'''Zmólka''': toś ta funkcija pomina se JavaScript.",
+    "apisb-intro": "Wužyj toś ten bok, aby z '''websłužbu Mediawiki API''' eksperimentěrował.\nGlědaj [//www.mediawiki.org/wiki/API:Main_page API-dokumentaciju] za dalšne drobnostki za wužywanje API. Pśikład: [//www.mediawiki.org/wiki/API#A_simple_example Wopśimjeśe głownego boka wótwołaś]. Wubjeŕ akciju, aby dalšne pśikłady wiźeł.\n\nŹiwaj na to, až, lěcrownož to jo grajkanišćo, akcije, kótarež pśewjedujoš na toś tom boku, by mógli wiki změniś.",
+    "apisb-api-disabled": "API jo se na toś tom sedle znjemóžnił.",
+    "apisb-legend-parameters": "Parametry",
+    "apisb-legend-result": "Wuslědk",
+    "apisb-legend-generic-parameters": "Powšykne parametry",
+    "apisb-legend-generator-parameters": "Generator",
+    "apisb-result-request-url": "URL napšašowanja:",
+    "apisb-result-request-post": "POST-daty:",
+    "apisb-label-format": "Format",
+    "apisb-label-action": "Akcija",
+    "apisb-label-doc": "Dokumentacija",
+    "apisb-select-action": "akciju wubraś",
+    "apisb-select-value": "(gódnotu wubraś)",
+    "apisb-docs-more": "dalšne informacije",
+    "apisb-params-param2": "Parameter za $1",
+    "apisb-params-input": "Zapódaśe",
+    "apisb-params-desc": "Wopisanje",
+    "apisb-params-deprecated": "$1 (zestarjony)",
+    "apisb-loading": "Zacytujo se...",
+    "apisb-load-error": "Zmólka pśi zacytowanju APU-wopisanja",
+    "apisb-request-error": "Zmólka pśi pśewjeźenju API-napšašowanja",
+    "apisb-namespaces-error": "Zmólka pśi zacytowanju mjenjowych rumow",
+    "apisb-ns-main": "(Nastawki)",
+    "apisb-submit": "Napšašowanje pśewjasć",
+    "apisb-query-prop": "Kakosći",
+    "apisb-query-list": "Lisćiny",
+    "apisb-query-meta": "Metainformacije",
+    "apisb-example": "Pśikład",
+    "apisb-examples": "Pśikłady",
+    "apisb-clear": "Wuprozniś",
+    "apisb-request-time": "Napšašowański cas: $1",
+    "apisb-no-module-params": "AP-modul $1 njepódawa parametry"
+}

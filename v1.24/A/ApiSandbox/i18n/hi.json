@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ansumang",
+			"Karthi.dr",
+			"Siddhartha Ghai"
+		]
+	},
+	"apisandbox": "ए॰पी॰आइ प्रयोगस्थल",
+	"apisb-legend-parameters": "मापदंडों",
+	"apisb-legend-result": "परिणाम",
+	"apisb-legend-generic-parameters": "जेनेरिक पैरामीटर्स",
+	"apisb-legend-generator-parameters": "जेनरेटर",
+	"apisb-result-request-url": "अनुरोध URL:",
+	"apisb-result-request-post": "डेटा भेजें:",
+	"apisb-label-format": "स्वरूप",
+	"apisb-label-action": "क्रिया",
+	"apisb-label-doc": "प्रलेखन",
+	"apisb-select-action": "क्रिया चयन करें",
+	"apisb-select-value": "(मूल्य चयन करें)",
+	"apisb-docs-more": "अधिक पढ़ें",
+	"apisb-params-input": "इनपुट",
+	"apisb-params-desc": "विवरण",
+	"apisb-loading": "लोड हो रहा है...",
+	"apisb-namespaces-error": "नेमस्पेस लोड़ होने में त्रुटि",
+	"apisb-ns-main": "(मुख्य)",
+	"apisb-submit": "अनुरोध करें",
+	"apisb-query-prop": "गुणधर्म",
+	"apisb-query-list": "सूचियाँ",
+	"apisb-query-meta": "मेटा जानकारी",
+	"apisb-example": "Example",
+	"apisb-examples": "उदाहरण",
+	"apisb-clear": "स्पष्ट",
+	"apisb-request-time": "अनुरोध समय: $1"
+}

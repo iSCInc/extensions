@@ -1,0 +1,35 @@
+{
+	"@metadata": {
+		"authors": [
+			"Умар"
+		]
+	},
+	"apisb-desc": "Йиш хуьлуьйту [//www.mediawiki.org/wiki/API MediaWiki API] дехарш зен браузера тӀера",
+	"apisandbox": "Ловзаран майда API",
+	"apisb-intro": "Лела йе хӀара агӀо '''MediaWiki API''' зуьйш.\nAPI кхин муха лела йо хьажа [//www.mediawiki.org/wiki/API:Main_page кхузахь]. Масала, [//www.mediawiki.org/wiki/API#A_simple_example Коьрта агӀона чулацам схьаэца]. Кхин масалаш ган харжа дийриг.",
+	"apisb-legend-parameters": "Параметраш",
+	"apisb-legend-result": "Хилам",
+	"apisb-legend-generic-parameters": "Юкъара параметраш",
+	"apisb-result-request-url": "Дехаран URL-адрес:",
+	"apisb-result-request-post": "POST хаамаш:",
+	"apisb-label-action": "Дийраш",
+	"apisb-label-doc": "Документаци",
+	"apisb-select-action": "Харжа дийриг",
+	"apisb-select-value": "(харжа маьӀна)",
+	"apisb-docs-more": "ма-дарра",
+	"apisb-params-param2": "Параметр цу $1",
+	"apisb-params-input": "Яздар",
+	"apisb-params-desc": "Цуьнах лаьцна",
+	"apisb-params-deprecated": "$1 (шира елла)",
+	"apisb-loading": "Чуйолуш…",
+	"apisb-ns-main": "(Коьрта)",
+	"apisb-submit": "Дехар далар",
+	"apisb-query-prop": "ХӀума",
+	"apisb-query-list": "МогӀамаш",
+	"apisb-query-meta": "Мета-хаам",
+	"apisb-example": "Масала",
+	"apisb-examples": "Масалаш",
+	"apisb-clear": "ЦӀанъян",
+	"apisb-request-time": "Дехар дина хан: $1",
+	"apisb-no-module-params": "API-модулан $1 яц параметраш"
+}

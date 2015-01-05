@@ -1,0 +1,40 @@
+{
+    "@metadata": {
+        "authors": [
+            "Cedric31"
+        ]
+    },
+    "apisandbox": "Nauc de sabla API",
+    "apisb-no-js": "''' Error ''': aquesta foncionalitat necessita JavaScript.",
+    "apisb-api-disabled": "API es desactivat sus aqueste site.",
+    "apisb-legend-parameters": "Paramètres",
+    "apisb-legend-result": "Resultat",
+    "apisb-legend-generic-parameters": "Paramètres generics",
+    "apisb-legend-generator-parameters": "Generador",
+    "apisb-result-request-url": "Requèsta URL :",
+    "apisb-result-request-post": "donadas POST :",
+    "apisb-label-format": "Format",
+    "apisb-label-action": "Accion",
+    "apisb-label-doc": "Documentacion",
+    "apisb-select-action": "(seleccionar una accion)",
+    "apisb-select-value": "(causir la valor)",
+    "apisb-docs-more": "ne saber mai",
+    "apisb-params-param2": "Paramètre per $1",
+    "apisb-params-input": "Entrada",
+    "apisb-params-desc": "Descripcion",
+    "apisb-params-deprecated": "$1 (obsolèt)",
+    "apisb-loading": "Cargament...",
+    "apisb-load-error": "Error al moment del cargament de descripcion de l’API",
+    "apisb-request-error": "Error al moment de l’execucion d’una requèsta API",
+    "apisb-namespaces-error": "Error al moment del cargament dels espacis de noms",
+    "apisb-ns-main": "(Principal)",
+    "apisb-submit": "Far la demanda",
+    "apisb-query-prop": "Proprietats",
+    "apisb-query-list": "Listas",
+    "apisb-query-meta": "Mèta-informacion",
+    "apisb-example": "Exemple",
+    "apisb-examples": "Exemples",
+    "apisb-clear": "Escafar",
+    "apisb-request-time": "Durada de la demanda : $1",
+    "apisb-no-module-params": "Lo modul API $1 provesís pas de paramètres"
+}

@@ -1,0 +1,42 @@
+{
+    "@metadata": {
+        "authors": [
+            "Borichèt",
+            "Dragonòt"
+        ]
+    },
+    "apisb-desc": "A përmëtt ëd gavé ij bigat a le ciamà [//www.mediawiki.org/wiki/API API ëd MediaWiki] a parte dal navigador",
+    "apisandbox": "Spassi dle preuve API",
+    "apisb-no-js": "'''Eror''': sta funsion a l'ha damanca ëd JavaScript",
+    "apisb-intro": "Ch'a deuvra sta pàgina për sperimenté ël '''servissi an sl'aragnà MediaWiki API'''.\nCh'a fasa riferiment a [//www.mediawiki.org/wiki/API:Main_page la documentassion ëd l'API] për d'àutri detaj an sl'utilisassion ëd l'API. Për esempi: [//www.mediawiki.org/wiki/API#A_simple_example oten-e ël contnù ëd na pàgina d'Intrada]. Ch'a selession-a n'assion për vëdde d'àutri esempi.",
+    "apisb-api-disabled": "API a l'é disabilità ansima a 's sit.",
+    "apisb-legend-parameters": "Paràmetr",
+    "apisb-legend-result": "Arzultà",
+    "apisb-legend-generic-parameters": "Paràmetr genérich",
+    "apisb-legend-generator-parameters": "Generator",
+    "apisb-result-request-url": "Anliura d'arcesta:",
+    "apisb-result-request-post": "Dat ëd POST:",
+    "apisb-label-format": "Formà",
+    "apisb-label-action": "Assion",
+    "apisb-label-doc": "Documentassion",
+    "apisb-select-action": "Selessioné n'assion",
+    "apisb-select-query": "(selessioné l'arcesta)",
+    "apisb-select-value": "(selessioné ël valor)",
+    "apisb-docs-more": "les anco'",
+    "apisb-params-param": "Paràmetr",
+    "apisb-params-input": "Anseriment",
+    "apisb-params-desc": "Descrission",
+    "apisb-loading": "A caria ...",
+    "apisb-load-error": "Eror an cariand la descrission dl'API",
+    "apisb-request-error": "Eror fasend la ciamà dl'API",
+    "apisb-namespaces-error": "Eror cariand jë spassi nominaj",
+    "apisb-ns-main": "(Prinsipal)",
+    "apisb-submit": "Fé l'arcesta",
+    "apisb-query-prop": "Proprietà",
+    "apisb-query-list": "Liste",
+    "apisb-query-meta": "Meta-anformassion",
+    "apisb-example": "Esempi",
+    "apisb-examples": "Esempi",
+    "apisb-clear": "Scancela",
+    "apisb-request-time": "Temp necessari: $1"
+}

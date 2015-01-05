@@ -1,0 +1,41 @@
+{
+    "@metadata": {
+        "authors": [
+            "Paul Beppler"
+        ]
+    },
+    "apisandbox": "API-Spielwies",
+    "apisb-no-js": "'''Fehler:''' Die Funktion erfordert JavaSkript.",
+    "apisb-intro": "Die Seit kannst du für Versuche mit der '''MediaWiki-API''' verwenne.\nDie [//www.mediawiki.org/wiki/API:Main_page/de Dokumentation zur API] enthält weitre Hinweise zu ihrer Nutzung. Beispiel: [//www.mediawiki.org/wiki/API:Main_page/de#Ein_einfaches_Beispiel Den Inhalt der Hauptseit abrufe]. Für weitre Beispiele en von der verfüchbare Aktione auswähle.\n\nObwohl das en Spielwies ist, bedenke, dass Aktione, wo du uff der Seit doorrichführst, das Wiki verännre.",
+    "apisb-api-disabled": "Die API woard uff dem Wiki deaktiviert.",
+    "apisb-legend-parameters": "Parameter",
+    "apisb-legend-result": "Ergebnis",
+    "apisb-legend-generic-parameters": "Generische Parameter",
+    "apisb-legend-generator-parameters": "Generator",
+    "apisb-result-request-url": "Anforderungs-URL:",
+    "apisb-result-request-post": "POST-Date:",
+    "apisb-label-format": "Format",
+    "apisb-label-action": "Aktion",
+    "apisb-label-doc": "Dokumentation",
+    "apisb-select-action": "(Aktion auswähle)",
+    "apisb-select-value": "(Weart auswähle)",
+    "apisb-docs-more": "Meahr",
+    "apisb-params-param2": "Parameter für $1",
+    "apisb-params-input": "Eingäb",
+    "apisb-params-desc": "Beschreibung",
+    "apisb-params-deprecated": "$1 (veraltet)",
+    "apisb-loading": "Am loode …",
+    "apisb-load-error": "Do ist en Fehler beim Loode von der API-Beschreibung uffgetret.",
+    "apisb-request-error": "Do ist en Fehler beim Ausführe von der API-Anfordrung uffgetret.",
+    "apisb-namespaces-error": "Do ist en Fehler beim Loode von der Noomeräime uffgetret.",
+    "apisb-ns-main": "(Seite)",
+    "apisb-submit": "Oonfroch ausführe",
+    "apisb-query-prop": "Eigenschafte",
+    "apisb-query-list": "Liste",
+    "apisb-query-meta": "Metainformatione",
+    "apisb-example": "Beispiel",
+    "apisb-examples": "Beispiele",
+    "apisb-clear": "Leere",
+    "apisb-request-time": "Dauer von der Oonfroch: $1",
+    "apisb-no-module-params": "Das API-Modul $1 hot ken Parameter"
+}

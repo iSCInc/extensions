@@ -1,0 +1,41 @@
+{
+    "@metadata": {
+        "authors": [
+            "AK",
+            "Crazymadlover",
+            "Glavkos",
+            "Lou",
+            "ZaDiak"
+        ]
+    },
+    "apisandbox": "Αμμοδοχείο API",
+    "apisb-no-js": "'''Σφάλμα''': αυτό το χαρακτηριστικό απαιτεί τη χρήση της κονσόλας JavaScript.",
+    "apisb-api-disabled": "Η Διεπαφή Προγραμματισμού Εφαρμογών (API) είναι απενεργοποιημένη σε αυτήν την τοποθεσία.",
+    "apisb-legend-parameters": "Παράμετροι",
+    "apisb-legend-result": "Αποτέλεσμα",
+    "apisb-legend-generic-parameters": "Γενικές παράμετροι",
+    "apisb-legend-generator-parameters": "Γεννήτρια",
+    "apisb-result-request-url": "Αίτηση URL:",
+    "apisb-result-request-post": "Δεδομένα POST:",
+    "apisb-label-format": "Μορφή",
+    "apisb-label-action": "Ενέργεια",
+    "apisb-label-doc": "Τεκμηρίωση",
+    "apisb-select-action": "Επιλέξτε ενέργεια",
+    "apisb-select-query": "(επιλογή ερώτησης)",
+    "apisb-select-value": "(επιλογή τιμής)",
+    "apisb-docs-more": "διαβάστε περισσότερα",
+    "apisb-params-param": "Η παράμετρος",
+    "apisb-params-input": "Εισροή",
+    "apisb-params-desc": "Περιγραφή",
+    "apisb-loading": "Φόρτωση...",
+    "apisb-namespaces-error": "Σφάλμα φόρτωσης ονοματοχώρων",
+    "apisb-ns-main": "(Κύρια)",
+    "apisb-submit": "Κάντε αίτημα",
+    "apisb-query-prop": "Ιδιότητες",
+    "apisb-query-list": "Λίστες",
+    "apisb-query-meta": "Πληροφορίες Meta",
+    "apisb-example": "Παράδειγμα",
+    "apisb-examples": "Παραδείγματα",
+    "apisb-clear": "Εκκαθάριση",
+    "apisb-request-time": "Ώρα αίτησης: $1"
+}

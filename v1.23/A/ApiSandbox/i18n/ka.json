@@ -1,0 +1,40 @@
+{
+    "@metadata": {
+        "authors": [
+            "BRUTE",
+            "David1010"
+        ]
+    },
+    "apisandbox": "API-ს სავარჯიშო",
+    "apisb-no-js": "'''შეცდომა''': ეს შესაძლებლობა მოითხოვს JavaScript-ს.",
+    "apisb-api-disabled": "API ამ საიტზე გამორთულია.",
+    "apisb-legend-parameters": "პარამეტრები",
+    "apisb-legend-result": "შედეგი",
+    "apisb-legend-generic-parameters": "საერთო პარამეტრები",
+    "apisb-legend-generator-parameters": "გენერატორი",
+    "apisb-result-request-url": "მოთხოვნის URL:",
+    "apisb-result-request-post": "POST მონაცემები:",
+    "apisb-label-format": "ფორმატი",
+    "apisb-label-action": "მოქმედება",
+    "apisb-label-doc": "დოკუმენტაცია",
+    "apisb-select-action": "(აირჩიეთ მოქმედება)",
+    "apisb-select-query": "(აირჩიეთ მოთხოვნა)",
+    "apisb-select-value": "(აირჩიეთ მნიშვნელობა)",
+    "apisb-docs-more": "მეტი",
+    "apisb-params-param": "პარამეტრი",
+    "apisb-params-input": "შეყვანა",
+    "apisb-params-desc": "აღწერა",
+    "apisb-loading": "იტვირთება...",
+    "apisb-load-error": "შეცდომა API-ის აღწერის ჩატვირთვისას",
+    "apisb-request-error": "შეცდომა API-ის მოთხოვნის შესრულებაზე",
+    "apisb-namespaces-error": "შეცდომა სახელთა სივრცის ჩარტვირთვისას",
+    "apisb-ns-main": "(მთავარი)",
+    "apisb-submit": "მოთხოვნის გაკეთება",
+    "apisb-query-prop": "პარამეტრები",
+    "apisb-query-list": "სიები",
+    "apisb-query-meta": "მეტა-ინფორმაცია",
+    "apisb-example": "მაგალითი",
+    "apisb-examples": "მაგალითები",
+    "apisb-clear": "წაშლა",
+    "apisb-request-time": "თხოვნის დრო: $1"
+}

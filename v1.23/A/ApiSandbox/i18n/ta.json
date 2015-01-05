@@ -1,0 +1,36 @@
+{
+    "@metadata": {
+        "authors": [
+            "Karthi.dr",
+            "Shanmugamp7",
+            "மதனாஹரன்"
+        ]
+    },
+    "apisandbox": "API மணற்தொட்டி",
+    "apisb-no-js": "'''பிழை''': இதற்கு ஜாவாஸ்கிரிப்டு வேண்டும்.",
+    "apisb-api-disabled": "இத் தளத்தில் API செயலிழக்கம் செய்யப்பட்டுள்ளது.",
+    "apisb-legend-parameters": "அளபுருக்கள்",
+    "apisb-legend-result": "முடிவு",
+    "apisb-legend-generic-parameters": "பொதுவானஅளவுருக்கள்",
+    "apisb-label-format": "வடிவமைப்பு",
+    "apisb-label-action": "செயல்",
+    "apisb-label-doc": "ஆவணப்படுத்துதல்",
+    "apisb-select-action": "(செயலைத் தெரியவும்)",
+    "apisb-select-query": "(வினவலைத் தெரியவும்)",
+    "apisb-select-value": "(பெறுமானத்தைத் தெரியவும்)",
+    "apisb-docs-more": "மேலும் படிக்க",
+    "apisb-params-param": "அளபுரு",
+    "apisb-params-input": "உள்ளீடு",
+    "apisb-params-desc": "விவரம்",
+    "apisb-loading": "ஏற்றுகிறது...",
+    "apisb-namespaces-error": "பெயர்வெளிகளை இறக்குவதில் பிழை",
+    "apisb-ns-main": "(முதன்மை)",
+    "apisb-submit": "கோரிக்கை செய்",
+    "apisb-query-prop": "பண்புகள்",
+    "apisb-query-list": "பட்டியல்கள்",
+    "apisb-query-meta": "Meta தகவல்",
+    "apisb-example": "உதாரணம்",
+    "apisb-examples": "உதாரணங்கள்",
+    "apisb-clear": "வெறுமையாக்கு",
+    "apisb-request-time": "வேண்டுகோள் நேரம்: $1"
+}

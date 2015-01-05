@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"NoiX180"
+		]
+	},
+	"apisb-desc": "Nglilakaké ndebug [//www.mediawiki.org/wiki/API API MediaWiki] ngundang saka pramban",
+	"apisandbox": "Kothak wedhi API",
+	"apisb-no-js": "'''Kasalahan''': fitur iki mbutuhaké JavaScript.",
+	"apisb-intro": "Anggo kaca iki kanggo njajal-njajal '''API layanan wèb MediaWiki'''.\nRujuk [//www.mediawiki.org/wiki/API:Main_page the dhokumèntasi API] kanggo panganggoan API luwih rinci. Conto: [//www.mediawiki.org/wiki/API#A_simple_example ngéntukaké kontèn Kaca Utama]. Pilih laku kanggo ndelok conto luwih akèh.",
+	"apisb-api-disabled": "API dipatèni nèng situs iki.",
+	"apisb-legend-parameters": "Paramèter",
+	"apisb-legend-result": "Asil",
+	"apisb-legend-generic-parameters": "Paramèter gènerik",
+	"apisb-legend-generator-parameters": "Gènerator",
+	"apisb-result-request-url": "URL dikarepaké:",
+	"apisb-result-request-post": "Data POST:",
+	"apisb-label-format": "Format",
+	"apisb-label-action": "Laku",
+	"apisb-label-doc": "Dhokumèntasi",
+	"apisb-select-action": "(pilih laku)",
+	"apisb-select-value": "(pilih nilè)",
+	"apisb-docs-more": "waca luwih lanjut",
+	"apisb-params-input": "Lebon",
+	"apisb-params-desc": "Wedharan",
+	"apisb-loading": "Ngemot...",
+	"apisb-load-error": "Kasalahan ngemot pawedharan API",
+	"apisb-request-error": "Kasalahan nglakokaké panjalukan API",
+	"apisb-namespaces-error": "Kasalahan ngemot jeneng bilik",
+	"apisb-ns-main": "(Utama)",
+	"apisb-submit": "Gawé panjalukan",
+	"apisb-query-prop": "Properti",
+	"apisb-query-list": "Daptar",
+	"apisb-query-meta": "Informasi méta",
+	"apisb-example": "Conto",
+	"apisb-examples": "Conto",
+	"apisb-clear": "Resiki",
+	"apisb-request-time": "Suwéné panjalukan: $1"
+}

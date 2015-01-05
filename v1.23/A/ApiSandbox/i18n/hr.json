@@ -1,0 +1,17 @@
+{
+    "@metadata": {
+        "authors": [
+            "Roberta F."
+        ]
+    },
+    "apisb-legend-result": "Rezultat",
+    "apisb-params-desc": "Opis",
+    "apisb-loading": "Učitavam…",
+    "apisb-ns-main": "(Glavni)",
+    "apisb-submit": "Napraviti zahtjev",
+    "apisb-query-prop": "Svojstva",
+    "apisb-query-list": "Popisi",
+    "apisb-example": "Primjer",
+    "apisb-examples": "Primjeri",
+    "apisb-clear": "Očisti"
+}

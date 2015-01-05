@@ -1,0 +1,41 @@
+{
+    "@metadata": {
+        "authors": [
+            "ChrisPtDe"
+        ]
+    },
+    "apisb-desc": "Pèrmèt d’èliminar les cofieries des apèls de l’[//www.mediawiki.org/wiki/API API de MediaWiki] dês lo navigator.",
+    "apisandbox": "Bouèta de sabla API",
+    "apisb-no-js": "'''Èrror :''' cela fonccionalitât at fôta de JavaScript.",
+    "apisb-intro": "Utilisâd ceta pâge por èxpèrimentar avouéc '''MediaWiki API'''.\nReportâd-vos sur [//www.mediawiki.org/wiki/API:Main_page la documentacion de l’API] por més de dètalys sur l’usâjo de l’API.",
+    "apisb-api-disabled": "API est dèsactivâ sur ceti seto.",
+    "apisb-legend-parameters": "Paramètros",
+    "apisb-legend-result": "Rèsultat",
+    "apisb-legend-generic-parameters": "Paramètres g·ènèricos",
+    "apisb-legend-generator-parameters": "G·ènèrator",
+    "apisb-result-request-url": "Requéta URL :",
+    "apisb-result-request-post": "Balyês POST :",
+    "apisb-label-format": "Format",
+    "apisb-label-action": "Accion",
+    "apisb-label-doc": "Documentacion",
+    "apisb-select-action": "Chouèsir una accion",
+    "apisb-select-query": "(chouèsir la requéta)",
+    "apisb-select-value": "(chouèsir la valor)",
+    "apisb-docs-more": "nen savêr més",
+    "apisb-params-param": "Paramètro",
+    "apisb-params-input": "Entrâ",
+    "apisb-params-desc": "Dèscripcion",
+    "apisb-loading": "Chargement...",
+    "apisb-load-error": "Èrror pendent lo chargement de la dèscripcion de l’API",
+    "apisb-request-error": "Èrror pendent l’ègzécucion d’una requéta API",
+    "apisb-namespaces-error": "Èrror pendent lo chargement des èspâços de noms",
+    "apisb-ns-main": "(Principâl)",
+    "apisb-submit": "Fâre la demanda",
+    "apisb-query-prop": "Propriètâts",
+    "apisb-query-list": "Listes",
+    "apisb-query-meta": "Mèta-enformacions",
+    "apisb-example": "Ègzemplo",
+    "apisb-examples": "Ègzemplos",
+    "apisb-clear": "Èfaciér",
+    "apisb-request-time": "Durâ de la demanda : $1"
+}

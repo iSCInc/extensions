@@ -1,0 +1,42 @@
+{
+    "@metadata": {
+        "authors": [
+            "Xuacu"
+        ]
+    },
+    "apisb-desc": "Permite depurar les llamaes a la [//www.mediawiki.org/wiki/API API de MediaWiki] dende'l navegador",
+    "apisandbox": "Zona de pruebes API",
+    "apisb-no-js": "'''Error''': esta carauterística requier JavaScript.",
+    "apisb-intro": "Usa esta páxina pa esperimentar cola '''API de serviciu web de MediaWiki'''.\nConsulta [//www.mediawiki.org/wiki/API:Main_page la documentación de la API] pa más detalles tocante al so usu. Exemplu: [//www.mediawiki.org/wiki/API#A_simple_example llamar al conteníu d'una Páxina principal]. Seleiciona una aición pa ver más exemplos.\n\nTen presente que, anque esto ye una zona de pruebes, les aiciones que faigas nesta páxina puen camudar la wiki.",
+    "apisb-api-disabled": "La API ta desactivada nesti sitiu.",
+    "apisb-legend-parameters": "Parámetros",
+    "apisb-legend-result": "Resultáu",
+    "apisb-legend-generic-parameters": "Parámetros xenéricos",
+    "apisb-legend-generator-parameters": "Xenerador",
+    "apisb-result-request-url": "URL de la solicitú:",
+    "apisb-result-request-post": "Datos POST:",
+    "apisb-label-format": "Formatu",
+    "apisb-label-action": "Aición",
+    "apisb-label-doc": "Documentación",
+    "apisb-select-action": "(seleicionar aición)",
+    "apisb-select-value": "(seleicionar valor)",
+    "apisb-docs-more": "lleer más",
+    "apisb-params-param2": "Parámetru pa $1",
+    "apisb-params-input": "Entrada",
+    "apisb-params-desc": "Descripción",
+    "apisb-params-deprecated": "$1 (anticuáu)",
+    "apisb-loading": "Cargando...",
+    "apisb-load-error": "Error al cargar descripción de la API",
+    "apisb-request-error": "Error al facer solicitú a la API",
+    "apisb-namespaces-error": "Error al cargar los espacios de nomes",
+    "apisb-ns-main": "(Principal)",
+    "apisb-submit": "Facer solicitú",
+    "apisb-query-prop": "Propiedaes",
+    "apisb-query-list": "Llistes",
+    "apisb-query-meta": "Información de Meta",
+    "apisb-example": "Exemplu",
+    "apisb-examples": "Exemplos",
+    "apisb-clear": "Llimpiar",
+    "apisb-request-time": "Duración de la solicitú: $1",
+    "apisb-no-module-params": "El módulu $1 de la API nun ufre parámetros"
+}

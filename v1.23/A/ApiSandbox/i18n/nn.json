@@ -1,0 +1,41 @@
+{
+    "@metadata": {
+        "authors": [
+            "Njardarlogar"
+        ]
+    },
+    "apisb-desc": "Tillèt feilsøking av [//www.mediawiki.org/wiki/API MediaWiki API]-kall frå nettlesaren",
+    "apisandbox": "API-sandkasse",
+    "apisb-no-js": "'''Feil''': denne funksjonen krev JavaScript.",
+    "apisb-intro": "Nytt sida til å røyna ut '''MediaWiki web service API''-en.\nSjå [//www.mediawiki.org/wiki/API:Main_page API-dokumentasjonen] for meir informasjon om bruk av API-en. Døme: [//www.mediawiki.org/wiki/API#A_simple_example hent innhaldet til ei hovudside].\nVel ei handling for å sjå fleire døme.",
+    "apisb-api-disabled": "API er slege av på nettstaden.",
+    "apisb-legend-parameters": "Parametrar",
+    "apisb-legend-result": "Utfall",
+    "apisb-legend-generic-parameters": "Generiske parametrar",
+    "apisb-legend-generator-parameters": "Generator",
+    "apisb-result-request-url": "Førespurd URL:",
+    "apisb-result-request-post": "POST-data:",
+    "apisb-label-format": "Format",
+    "apisb-label-action": "Handling",
+    "apisb-label-doc": "Dokumentasjon",
+    "apisb-select-action": "(vel handling)",
+    "apisb-select-query": "(vel spørjing)",
+    "apisb-select-value": "(vel verdi)",
+    "apisb-docs-more": "les meir",
+    "apisb-params-param": "Parameter",
+    "apisb-params-input": "Inndata",
+    "apisb-params-desc": "Skildring",
+    "apisb-loading": "Lastar …",
+    "apisb-load-error": "Feil ved lasting av API-skildring",
+    "apisb-request-error": "Feil ved utføring av API-førespurnad",
+    "apisb-namespaces-error": "Feil ved lasting av namnerom",
+    "apisb-ns-main": "(Hovud)",
+    "apisb-submit": "Gjer førespurnad",
+    "apisb-query-prop": "Eigenskapar",
+    "apisb-query-list": "Lister",
+    "apisb-query-meta": "Metainformasjon",
+    "apisb-example": "Døme",
+    "apisb-examples": "Døme",
+    "apisb-clear": "Tøm",
+    "apisb-request-time": "Førespurnadstid: $1"
+}

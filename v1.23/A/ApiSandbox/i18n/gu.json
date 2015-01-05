@@ -1,0 +1,25 @@
+{
+    "@metadata": {
+        "authors": [
+            "KartikMistry"
+        ]
+    },
+    "apisb-legend-parameters": "પરિમાણો",
+    "apisb-legend-result": "પરિણામ",
+    "apisb-legend-generic-parameters": "સામાન્ય પરિમાણો",
+    "apisb-label-action": "ક્રિયા",
+    "apisb-label-doc": "દસ્તાવેજીકરણ",
+    "apisb-select-action": "(ક્રિયા પસંદ કરો)",
+    "apisb-select-value": "(કિંમત પસંદ કરો)",
+    "apisb-docs-more": "વધુ વાંચો",
+    "apisb-params-desc": "વર્ણન",
+    "apisb-loading": "લવાઇ રહ્યું છે...",
+    "apisb-ns-main": "(મુખ્ય)",
+    "apisb-submit": "વિનંતી કરો",
+    "apisb-query-prop": "ગુણધર્મો",
+    "apisb-query-list": "યાદીઓ",
+    "apisb-query-meta": "મેટા માહિતી",
+    "apisb-example": "ઉદાહરણ",
+    "apisb-examples": "ઉદાહરણો",
+    "apisb-clear": "સાફ કરો"
+}

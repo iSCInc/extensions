@@ -1,0 +1,41 @@
+{
+    "@metadata": {
+        "authors": [
+            "Geopoet"
+        ]
+    },
+    "apisb-desc": "Minatugot na maghirog[//www.mediawiki.org/wiki/API MediaWiki API] nin mga apod gikan sa kilyawan",
+    "apisandbox": "Kahong-buhangin kan API",
+    "apisb-no-js": "'''Kasalaan:''' ining hitsurahon nangangaipo nin JavaScript.",
+    "apisb-intro": "Gamitong ining pahina sa pag-eksperimento kan '''MediaWiki web service API'''.\nKonsultaron an  [//www.mediawiki.org/wiki/API:Main_page the API documentation] para sa iba pang mga detalye sa paggamit kan API. Ehemplo: [//www.mediawiki.org/wiki/API#A_simple_example kuahon an laman kan Pangenot na Pahina]. Magpili nin aksyon tanganing hilngon an mga kadagdagan na mga ehemplo.",
+    "apisb-api-disabled": "An API dae pinagpagana sa sityong ini.",
+    "apisb-legend-parameters": "Mga parametro",
+    "apisb-legend-result": "Resulta",
+    "apisb-legend-generic-parameters": "Henerikong mga parametro",
+    "apisb-legend-generator-parameters": "Parapuyos",
+    "apisb-result-request-url": "Hagad URL:",
+    "apisb-result-request-post": "Datos nin POST:",
+    "apisb-label-format": "Pormat",
+    "apisb-label-action": "Aksyon",
+    "apisb-label-doc": "Dokumentasyon",
+    "apisb-select-action": "(pilion an aksyon)",
+    "apisb-select-query": "(pilion na kahaputan)",
+    "apisb-select-value": "(pilion an kahalagahaan)",
+    "apisb-docs-more": "kadagdagan na basahon",
+    "apisb-params-param": "Parametro",
+    "apisb-params-input": "Panlaog",
+    "apisb-params-desc": "Deskripsyon",
+    "apisb-loading": "Ikinakarga...",
+    "apisb-load-error": "Kasalaan sa pagkakarga kan API na deskripsyon",
+    "apisb-request-error": "Kasalaan sa paghihimo kan API na kahagadan",
+    "apisb-namespaces-error": "Kasalaan sa pagkakarga kan mga espasyong-ngaran",
+    "apisb-ns-main": "(Ginikanan)",
+    "apisb-submit": "Maghimo nin kahagadan",
+    "apisb-query-prop": "Mga Kagrugaring",
+    "apisb-query-list": "Mga Listahan",
+    "apisb-query-meta": "Impormasyong Meta",
+    "apisb-example": "Ehemplo",
+    "apisb-examples": "Mga ehemplo",
+    "apisb-clear": "Klaro",
+    "apisb-request-time": "Hagad oras:$1"
+}

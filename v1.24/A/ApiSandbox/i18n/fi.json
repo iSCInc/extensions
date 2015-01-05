@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"Crt",
+			"Nedergard",
+			"Olli"
+		]
+	},
+	"apisb-desc": "[//www.mediawiki.org/wiki/API MediaWiki API] -kyselyjen virheenkorjausmahdollisuus",
+	"apisandbox": "API-hiekkalaatikko",
+	"apisb-no-js": "'''Virhe:''' Tämä ominaisuus vaatii JavaScriptin.",
+	"apisb-intro": "Tämä on '''MediaWiki API:n''' hiekkalaatikko.\n[//www.mediawiki.org/wiki/API:Main_page API-dokumentaatio] kertoo lisää API:en käytöstä.",
+	"apisb-api-disabled": "API on poistettu käytöstä tällä sivustolla.",
+	"apisb-legend-parameters": "Muuttujat",
+	"apisb-legend-result": "Tulos",
+	"apisb-legend-generic-parameters": "Yleiset parametrit",
+	"apisb-legend-generator-parameters": "Generoija",
+	"apisb-result-request-url": "Pyynnön URL",
+	"apisb-result-request-post": "POST-tiedot",
+	"apisb-label-format": "Muoto",
+	"apisb-label-action": "Toiminto",
+	"apisb-label-doc": "Ohjeet",
+	"apisb-select-action": "(valitse toiminto)",
+	"apisb-select-value": "(valitse arvo)",
+	"apisb-docs-more": "lue lisää",
+	"apisb-params-input": "Syöte",
+	"apisb-params-desc": "Kuvaus",
+	"apisb-loading": "Ladataan...",
+	"apisb-load-error": "API-kuvauksen latausvirhe",
+	"apisb-request-error": "API-pyynnön suoritusvirhe",
+	"apisb-namespaces-error": "Virhe ladattaessa nimiavaruuksia",
+	"apisb-ns-main": "(pää)",
+	"apisb-submit": "Tee pyyntö",
+	"apisb-query-prop": "Ominaisuudet",
+	"apisb-query-list": "Luettelot",
+	"apisb-query-meta": "Metatiedot",
+	"apisb-example": "Esimerkki",
+	"apisb-examples": "Esimerkit",
+	"apisb-clear": "Tyhjennä",
+	"apisb-request-time": "Pyyntöaika: $1"
+}

@@ -1,0 +1,8 @@
+{
+    "@metadata": {
+        "authors": [
+            "Kghbln"
+        ]
+    },
+    "apisb-intro": "Diese Seite können Sie für Versuche mit der '''MediaWiki-API''' verwenden.\nDie [//www.mediawiki.org/wiki/API:Main_page/de Dokumentation zur API] enthält weitere Hinweise zu ihrer Nutzung. Beispiel: [//www.mediawiki.org/wiki/API:Main_page/de#Ein_einfaches_Beispiel Den Inhalt auf einer Seite abrufen]. Für weitere Beispiele eine der verfügbaren Aktionen auswählen."
+}

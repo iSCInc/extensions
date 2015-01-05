@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bináris",
+			"Dj",
+			"Tacsipacsi",
+			"Xabier Armendaritz"
+		]
+	},
+	"apisb-desc": "Lehetőséget biztosít az [//www.mediawiki.org/wiki/API MediaWiki API] hívások nyomkövetésére a böngészőből",
+	"apisandbox": "API homokozó",
+	"apisb-no-js": "'''Hiba''': ehhez a szolgáltatáshoz JavaScript szükséges.",
+	"apisb-intro": "Ezen az oldalon kísérletezhetsz a '''MediaWiki web service API'''-val.\nA használattal kapcsolatos további részletek az [//www.mediawiki.org/wiki/API:Main_page API-dokumentációnál] találhatók. Példa: [//www.mediawiki.org/wiki/API#A_simple_example olvasd el a főoldal tartalomjegyzékét]. További példákért válassz egy tevékenységet!\n\nFigyelj rá, hogy bár ez csak egy „homokozó”, ettől még az általad végzett műveletek módosíthatják a wikit!",
+	"apisb-api-disabled": "API le van tiltva ezen az oldalon.",
+	"apisb-legend-parameters": "Paraméterek",
+	"apisb-legend-result": "Eredmény",
+	"apisb-legend-generic-parameters": "Általános paraméterek",
+	"apisb-legend-generator-parameters": "Generátor",
+	"apisb-result-request-url": "Kérő URL:",
+	"apisb-result-request-post": "POST adat:",
+	"apisb-label-format": "Formátum",
+	"apisb-label-action": "Művelet",
+	"apisb-label-doc": "Dokumentáció",
+	"apisb-select-action": "Műveletek kiválasztása",
+	"apisb-select-value": "(válassz értéket)",
+	"apisb-docs-more": "tudj meg többet",
+	"apisb-params-input": "Input",
+	"apisb-params-desc": "Leírás",
+	"apisb-loading": "Betöltés…",
+	"apisb-load-error": "Hiba a API leírás betöltésekor",
+	"apisb-request-error": "Hiba az API kérés végrehajtásakor",
+	"apisb-namespaces-error": "Hiba a névtér betöltése során",
+	"apisb-ns-main": "(Fő)",
+	"apisb-submit": "Kérés végrehajtása",
+	"apisb-query-prop": "Tulajdonságok",
+	"apisb-query-list": "Listák",
+	"apisb-query-meta": "Metaadatok",
+	"apisb-example": "Példa",
+	"apisb-examples": "Példák",
+	"apisb-clear": "Törlés",
+	"apisb-request-time": "Kérés ideje: $1"
+}

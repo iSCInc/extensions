@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Firilacroco",
+			"Minisarm",
+			"Stelistcristi"
+		]
+	},
+	"apisandbox": "Cutia cu nisip pentru API",
+	"apisb-no-js": "'''Eroare''': această caracteristică necesită JavaScript.",
+	"apisb-api-disabled": "API este dezactivat pe acest site.",
+	"apisb-legend-parameters": "Parametri",
+	"apisb-legend-result": "Rezultat",
+	"apisb-legend-generic-parameters": "Parametri generici",
+	"apisb-legend-generator-parameters": "Generator",
+	"apisb-result-request-url": "URL cerere:",
+	"apisb-result-request-post": "Date POST:",
+	"apisb-label-format": "Formatare",
+	"apisb-label-action": "Acțiune",
+	"apisb-label-doc": "Documentație",
+	"apisb-select-action": "Alegeți o acțiune",
+	"apisb-select-value": "(selectați valoarea)",
+	"apisb-docs-more": "citiți mai mult",
+	"apisb-params-input": "Date de intrare",
+	"apisb-params-desc": "Descriere",
+	"apisb-loading": "Se încarcă...",
+	"apisb-load-error": "Eroare la încărcarea descrierii API",
+	"apisb-request-error": "Eroare la executarea cererii API",
+	"apisb-namespaces-error": "Eroare la încărcarea spațiilor de nume",
+	"apisb-ns-main": "(Principal)",
+	"apisb-submit": "Efectuați cererea",
+	"apisb-query-prop": "Proprietăți",
+	"apisb-query-list": "Liste",
+	"apisb-query-meta": "Meta-informații",
+	"apisb-example": "Exemplu",
+	"apisb-examples": "Exemple",
+	"apisb-clear": "Curăță",
+	"apisb-request-time": "Durata cererii: $1"
+}

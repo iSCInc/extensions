@@ -1,0 +1,41 @@
+{
+    "@metadata": {
+        "authors": [
+            "McDutchie"
+        ]
+    },
+    "apisb-desc": "Permitte cercar defectos in appellos del [//www.mediawiki.org/wiki/API API de MediaWiki] ab le navigator del web",
+    "apisandbox": "Cassa de sablo pro API",
+    "apisb-no-js": "'''Error''': iste function require JavaScript.",
+    "apisb-intro": "Usa iste pagina pro experimentar con le '''API de servicio web de MediaWiki'''.\nConsulta [//www.mediawiki.org/wiki/API:Main_page le documentation del API] pro ulterior detalios concernente le uso del API. Per exemplo: [//www.mediawiki.org/wiki/API#A_simple_example obtener le contento de un Pagina principal]. Selige un action pro vider altere exemplos.",
+    "apisb-api-disabled": "Le API ha essite disactivate in iste sito.",
+    "apisb-legend-parameters": "Parametros",
+    "apisb-legend-result": "Resultato",
+    "apisb-legend-generic-parameters": "Parametros generic",
+    "apisb-legend-generator-parameters": "Generator",
+    "apisb-result-request-url": "URL de requesta:",
+    "apisb-result-request-post": "Datos POST:",
+    "apisb-label-format": "Formato",
+    "apisb-label-action": "Action",
+    "apisb-label-doc": "Documentation",
+    "apisb-select-action": "Selige action",
+    "apisb-select-query": "(selige consulta)",
+    "apisb-select-value": "(selige valor)",
+    "apisb-docs-more": "leger plus",
+    "apisb-params-param": "Parametro",
+    "apisb-params-input": "Entrata",
+    "apisb-params-desc": "Description",
+    "apisb-loading": "Cargamento…",
+    "apisb-load-error": "Error durante le cargamento del description del API",
+    "apisb-request-error": "Error durante le execution del requesta al API",
+    "apisb-namespaces-error": "Error durante le cargamento del spatios de nomines",
+    "apisb-ns-main": "(Principal)",
+    "apisb-submit": "Facer requesta",
+    "apisb-query-prop": "Proprietates",
+    "apisb-query-list": "Listas",
+    "apisb-query-meta": "Metainformationes",
+    "apisb-example": "Exemplo",
+    "apisb-examples": "Exemplos",
+    "apisb-clear": "Rader",
+    "apisb-request-time": "Duration del requesta: $1"
+}

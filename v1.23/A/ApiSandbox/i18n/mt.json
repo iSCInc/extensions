@@ -1,0 +1,39 @@
+{
+    "@metadata": {
+        "authors": [
+            "Chrisportelli"
+        ]
+    },
+    "apisb-desc": "Jippermetti l-iddibaggjar tal-talbiet tal-[//www.mediawiki.org/wiki/API API tal-MediaWiki] mill-browżer",
+    "apisandbox": "Paġna tal-provi tal-API",
+    "apisb-no-js": "'''Żball:''' din il-funzjoni għandha bżonn tal-JavaScript.",
+    "apisb-intro": "Uża din il-paġna sabiex tesperimenta mal-'''MediaWiki web service API'''.\nŻur id-[//www.mediawiki.org/wiki/API:Main_page dokumentazzjoni tal-API] għal aktar dettalji dwar l-użu tal-API. Eżempju: [//www.mediawiki.org/wiki/API#A_simple_example ikseb il-kontenut tal-paġna prinċipali]. Agħżel azzjoni sabiex tara aktar eżempji.",
+    "apisb-api-disabled": "L-API hija diżattivata fuq dan is-sit.",
+    "apisb-legend-parameters": "Parametri",
+    "apisb-legend-result": "Riżultat",
+    "apisb-legend-generic-parameters": "Parametri ġeneriċi",
+    "apisb-legend-generator-parameters": "Ġeneratur",
+    "apisb-result-request-url": "URL ta' rikjesta:",
+    "apisb-result-request-post": "Dejta POST:",
+    "apisb-label-format": "Format",
+    "apisb-label-action": "Azzjoni",
+    "apisb-label-doc": "Dokumentazzjoni",
+    "apisb-select-action": "Agħżel azzjoni",
+    "apisb-select-value": "Agħżel opzjoni",
+    "apisb-docs-more": "aqra iktar",
+    "apisb-params-param": "Parametru",
+    "apisb-params-desc": "Deskrizzjoni",
+    "apisb-loading": "Tiela'...",
+    "apisb-load-error": "Żball fit-tlugħ tad-deskrizzjoni tal-API",
+    "apisb-request-error": "Żball fit-twettiq tar-rikjesta tal-API",
+    "apisb-namespaces-error": "Żball fit-tlugħ tal-ispazji tal-isem",
+    "apisb-ns-main": "(Prinċipali)",
+    "apisb-submit": "Agħmel rikjesta",
+    "apisb-query-prop": "Proprjetajiet",
+    "apisb-query-list": "Elenki",
+    "apisb-query-meta": "Informazzjoni meta",
+    "apisb-example": "Eżempju",
+    "apisb-examples": "Eżempji",
+    "apisb-clear": "Ħassar",
+    "apisb-request-time": "Ħin ta' rikjesta: $1"
+}

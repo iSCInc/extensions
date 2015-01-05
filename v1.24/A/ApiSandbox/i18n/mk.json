@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"apisb-desc": "Овозможува отстранување на грешки во повикувањата на [//www.mediawiki.org/wiki/API?uselang=mk посредникот за програмирање на прилози (API) на МедијаВики] од прелистувачот",
+	"apisandbox": "API-песочник",
+	"apisb-no-js": "'''Грешка''': оваа функција бара JavaScript.",
+	"apisb-intro": "Страницава служи за експериментирање со '''МедијаВики API'''.\n\nПовеќе за употребата на овој API ќе најдете во [//www.mediawiki.org/wiki/API:Main_page неговата документација].  Пример: [//www.mediawiki.org/wiki/API#A_simple_example преземање на содржината на главната страница].  Одберете дејство за да видите повеќе примери.\n\nИмајте предвид дека она шо го правите на страницава може да се одрази врз викито, иако ова е песочник.",
+	"apisb-api-disabled": "API е оневозможен на ова мрежно место.",
+	"apisb-legend-parameters": "Параметри",
+	"apisb-legend-result": "Извод",
+	"apisb-legend-generic-parameters": "Општи параметри",
+	"apisb-legend-generator-parameters": "Создавач",
+	"apisb-result-request-url": "URL на барањето:",
+	"apisb-result-request-post": "POST-податоци:",
+	"apisb-label-format": "Формат",
+	"apisb-label-action": "Дејство",
+	"apisb-label-doc": "Документација",
+	"apisb-select-action": "Одберете дејство",
+	"apisb-select-value": "(изерете вредност)",
+	"apisb-docs-more": "прочитајте повеќе",
+	"apisb-params-param2": "Параметар за $1",
+	"apisb-params-input": "Внос",
+	"apisb-params-desc": "Опис",
+	"apisb-params-deprecated": "$1 (застарено)",
+	"apisb-loading": "Вчитувам...",
+	"apisb-load-error": "Грешка при вчитувањето на описот на API",
+	"apisb-request-error": "Грешка при извршувањето на барањето од API",
+	"apisb-namespaces-error": "Грешка при вчитувањето на именските простори",
+	"apisb-ns-main": "(Главен)",
+	"apisb-submit": "Постави барање",
+	"apisb-query-prop": "Својства",
+	"apisb-query-list": "Списоци",
+	"apisb-query-meta": "Метаинформации",
+	"apisb-example": "Пример",
+	"apisb-examples": "Примери",
+	"apisb-clear": "Исчисти",
+	"apisb-request-time": "Време за барањето: $1",
+	"apisb-no-module-params": "API-модулот $1 не дава параметри"
+}

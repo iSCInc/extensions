@@ -1,0 +1,25 @@
+{
+    "@metadata": {
+        "authors": [
+            "An13sa",
+            "Subi",
+            "Xabier Armendaritz",
+            "පසිඳු කාවින්ද"
+        ]
+    },
+    "apisb-legend-parameters": "Parametroak",
+    "apisb-legend-result": "Emaitza",
+    "apisb-label-format": "Formatua",
+    "apisb-label-action": "Ekintza",
+    "apisb-label-doc": "Dokumentazioa",
+    "apisb-docs-more": "Irakurri gehiago",
+    "apisb-params-input": "Sarrera",
+    "apisb-params-desc": "Deskribapena",
+    "apisb-loading": "Kargatzen…",
+    "apisb-ns-main": "(Nagusia)",
+    "apisb-query-prop": "Propietateak",
+    "apisb-query-list": "Zerrendak",
+    "apisb-example": "Adibidea",
+    "apisb-examples": "Adibidea",
+    "apisb-clear": "Garbitu"
+}

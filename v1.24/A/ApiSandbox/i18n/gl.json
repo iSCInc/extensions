@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Elisardojm",
+			"Toliño"
+		]
+	},
+	"apisb-desc": "Permite a depuración das chamadas da [//www.mediawiki.org/wiki/API API de MediaWiki] desde o navegador",
+	"apisandbox": "Zona de probas API",
+	"apisb-no-js": "'''Erro:''' Esta característica necesita JavaScript.",
+	"apisb-intro": "Use esta páxina para experimentar co '''servizo web da API de MediaWiki'''.\nConsulte a [//www.mediawiki.org/wiki/API:Main_page documentación da API] para obter máis información sobre o uso da API. Exemplo: [//www.mediawiki.org/wiki/API#A_simple_example obter o contido dunha páxina de inicio]. Seleccione unha acción para ollar máis exemplos.\n\nTeña en conta que, aínda que esta é unha páxina de probas, as accións que realice nesta páxina poden modificar o wiki.",
+	"apisb-api-disabled": "API está desactivado neste sitio.",
+	"apisb-legend-parameters": "Parámetros",
+	"apisb-legend-result": "Resultado",
+	"apisb-legend-generic-parameters": "Parámetros xenéricos",
+	"apisb-legend-generator-parameters": "Xerador",
+	"apisb-result-request-url": "URL da solicitude:",
+	"apisb-result-request-post": "Datos POST:",
+	"apisb-label-format": "Formato",
+	"apisb-label-action": "Acción",
+	"apisb-label-doc": "Documentación",
+	"apisb-select-action": "Seleccionar unha acción",
+	"apisb-select-value": "(seleccione o valor)",
+	"apisb-docs-more": "ler máis",
+	"apisb-params-param2": "Parámetro para \"$1\"",
+	"apisb-params-input": "Entrada",
+	"apisb-params-desc": "Descrición",
+	"apisb-params-deprecated": "$1 (obsoleto)",
+	"apisb-loading": "Cargando...",
+	"apisb-load-error": "Erro ao cargar a descrición API",
+	"apisb-request-error": "Erro ao executar a solicitude API",
+	"apisb-namespaces-error": "Erro ao cargar o espazo de nomes",
+	"apisb-ns-main": "(Principal)",
+	"apisb-submit": "Facer a solicitude",
+	"apisb-query-prop": "Propiedades",
+	"apisb-query-list": "Listas",
+	"apisb-query-meta": "Metainformación",
+	"apisb-example": "Exemplo",
+	"apisb-examples": "Exemplos",
+	"apisb-clear": "Limpar",
+	"apisb-request-time": "Duración da solicitude: $1",
+	"apisb-no-module-params": "O módulo da API \"$1\" non proporciona ningún parámetro"
+}

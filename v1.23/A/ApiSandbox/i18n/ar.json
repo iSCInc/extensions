@@ -1,0 +1,39 @@
+{
+    "@metadata": {
+        "authors": [
+            "Meno25",
+            "روخو"
+        ]
+    },
+    "apisandbox": "ملعب API",
+    "apisb-no-js": "'''خطأ''' : هذه الخاصية تتطلب الجافا سكريبت.",
+    "apisb-legend-parameters": "محددات",
+    "apisb-legend-result": "النتيجة",
+    "apisb-legend-generic-parameters": "محددات عامة",
+    "apisb-legend-generator-parameters": "مولد",
+    "apisb-result-request-url": "مسار الطلب:",
+    "apisb-result-request-post": "بيانات بوست:",
+    "apisb-label-format": "الصيغة",
+    "apisb-label-action": "الفعل",
+    "apisb-label-doc": "توثيق",
+    "apisb-select-action": "اختر حدث",
+    "apisb-select-query": "(اختر الاستعلام)",
+    "apisb-select-value": "(اختر القيمة)",
+    "apisb-docs-more": "اقرأ المزيد",
+    "apisb-params-param": "محددات",
+    "apisb-params-input": "المدخل",
+    "apisb-params-desc": "الوصف",
+    "apisb-loading": "جاري التحميل...",
+    "apisb-load-error": "خطأ تحميل وصف API",
+    "apisb-request-error": "خطأ تنفيذ طلب API",
+    "apisb-namespaces-error": "خطأ تحميل النطاقات",
+    "apisb-ns-main": "(رئيسي)",
+    "apisb-submit": "عمل الطلب",
+    "apisb-query-prop": "الخصائص",
+    "apisb-query-list": "قوائم",
+    "apisb-query-meta": "معلومات الميتا",
+    "apisb-example": "مثال",
+    "apisb-examples": "أمثلة",
+    "apisb-clear": "إفراغ",
+    "apisb-request-time": "وقت الطلب: $1"
+}

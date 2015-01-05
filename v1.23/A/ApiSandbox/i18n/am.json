@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "Codex Sinaiticus"
+        ]
+    },
+    "apisb-legend-result": "ውጤት",
+    "apisb-label-action": "ድርጊት",
+    "apisb-label-doc": "ሰነድ",
+    "apisb-params-desc": "መግለጫ",
+    "apisb-loading": "በመጫን ላይ ነው...",
+    "apisb-query-list": "ዝርዝሮች",
+    "apisb-example": "ምሳሌ",
+    "apisb-examples": "ምሳሌዎች"
+}

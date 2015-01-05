@@ -1,0 +1,33 @@
+{
+    "@metadata": {
+        "authors": [
+            "Milicevic01",
+            "Rancher"
+        ]
+    },
+    "apisb-api-disabled": "АПИ је онемогућен на овом сајту.",
+    "apisb-legend-parameters": "Параметри",
+    "apisb-legend-result": "Резултат",
+    "apisb-legend-generic-parameters": "Општи параметри",
+    "apisb-legend-generator-parameters": "Стварач",
+    "apisb-result-request-url": "Адреса захтева:",
+    "apisb-result-request-post": "POST подаци:",
+    "apisb-label-format": "Формат",
+    "apisb-label-action": "Радња",
+    "apisb-label-doc": "Документација",
+    "apisb-select-action": "Изаберите радњу",
+    "apisb-select-value": "(изаберите вредност)",
+    "apisb-params-input": "Унос",
+    "apisb-params-desc": "Опис",
+    "apisb-loading": "Учитавам…",
+    "apisb-load-error": "Грешка при учитавању описа АПИ-ја",
+    "apisb-request-error": "Грешка при извршавању захтева од АПИ-ја",
+    "apisb-namespaces-error": "Грешка при учитавању именских простора",
+    "apisb-ns-main": "(главно)",
+    "apisb-submit": "Постави захтев",
+    "apisb-query-prop": "Својства",
+    "apisb-query-list": "Спискови",
+    "apisb-query-meta": "Метаподаци",
+    "apisb-examples": "Примери",
+    "apisb-clear": "Очисти"
+}

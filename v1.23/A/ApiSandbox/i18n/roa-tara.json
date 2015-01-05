@@ -1,0 +1,42 @@
+{
+    "@metadata": {
+        "authors": [
+            "Joetaras",
+            "Reder"
+        ]
+    },
+    "apisb-desc": "Permette de verificà le chiamate de [//www.mediawiki.org/wiki/API MediaWiki API] da 'u browser",
+    "apisandbox": "Sandbox de l'API",
+    "apisb-no-js": "'''Errore''': sta funzionalità vole 'u JavaScript.",
+    "apisb-intro": "Ause sta pàgene pe sperimendà cu le '''API de le web service pe MediaUicchi'''.\nFà referimende a [//www.mediawiki.org/wiki/API:Main_page 'a documendazione de l'API] pe cchiù dettaglie de l'ause de l'API.\nEsembie: [//www.mediawiki.org/wiki/API#A_simple_example pigghie 'u condenute d'a Pàgene Prengepàle]. Scacchie 'n'azione pe 'ndrucà otre esembie.",
+    "apisb-api-disabled": "API non g'è abbiletate sus a stu site.",
+    "apisb-legend-parameters": "Parametre",
+    "apisb-legend-result": "Resultate",
+    "apisb-legend-generic-parameters": "Parametre generiche",
+    "apisb-legend-generator-parameters": "Generatore",
+    "apisb-result-request-url": "URL richieste:",
+    "apisb-result-request-post": "POST d'u date:",
+    "apisb-label-format": "Formate",
+    "apisb-label-action": "Azione",
+    "apisb-label-doc": "Documendazione",
+    "apisb-select-action": "Scacchie l'azione",
+    "apisb-select-query": "(scacchie l'inderrogazione)",
+    "apisb-select-value": "(scacchie 'nu valore)",
+    "apisb-docs-more": "ligge de cchiù",
+    "apisb-params-param": "Parametre",
+    "apisb-params-input": "Ingresse",
+    "apisb-params-desc": "Descrizione",
+    "apisb-loading": "Stoche a careche…",
+    "apisb-load-error": "Errore jndr'à 'u carecamende d'a descrizione de l'API",
+    "apisb-request-error": "Errore in esecuzione d'a richieste de l'API",
+    "apisb-namespaces-error": "Errore de caricamende de le namespace",
+    "apisb-ns-main": "(Prengepàle)",
+    "apisb-submit": "Fà 'na richieste",
+    "apisb-query-prop": "probbietà",
+    "apisb-query-list": "Elenghe",
+    "apisb-query-meta": "'Mbormaziune sus a le Meta",
+    "apisb-example": "Esembie",
+    "apisb-examples": "Esembie",
+    "apisb-clear": "Pulizze",
+    "apisb-request-time": "Tiembe cercate: $1"
+}

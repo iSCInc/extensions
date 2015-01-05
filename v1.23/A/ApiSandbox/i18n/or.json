@@ -1,0 +1,42 @@
+{
+    "@metadata": {
+        "authors": [
+            "Ansumang",
+            "Jnanaranjan Sahu",
+            "Odisha1",
+            "Psubhashish",
+            "Shisir 1945"
+        ]
+    },
+    "apisb-desc": "ବ୍ରାଉଜରରୁ [//www.mediawiki.org/wiki/API MediaWiki API]ରେ ଥିବା ଅସୁବିଧାକୁ ସୁଧାରିବା ପାଇଁ ଅନୁମତି ଦେବେ",
+    "apisandbox": "API ପରଖଘର",
+    "apisb-no-js": "'''ଭୁଲ''': ଏହି ସୁବିଧା ପାଇଁ JavaScript ଲୋଡ଼ା ।",
+    "apisb-api-disabled": "API ଟି ଏହି ସାଇଟରେ ଅଚଳ କରାଯାଇଛି ।",
+    "apisb-legend-result": "ପରିଣାମ",
+    "apisb-legend-generic-parameters": "ସାଧାରଣ ମୂଲ୍ୟାଙ୍କ",
+    "apisb-legend-generator-parameters": "ଉତ୍ପାଦକ",
+    "apisb-result-request-url": "URL ଅନୁରୋଧ କରିବେ:",
+    "apisb-result-request-post": "POST ତଥ୍ୟ:",
+    "apisb-label-format": "ସଜାଣି",
+    "apisb-label-action": "କାମ",
+    "apisb-select-action": "କାମ ବାଛିବେ",
+    "apisb-select-query": "ପ୍ରଶ୍ନଟି କଣ?",
+    "apisb-select-value": "(ମୂଲ୍ୟ ବାଛିବେ)",
+    "apisb-docs-more": "ଆହୁରି ପଢିବେ",
+    "apisb-params-param": "ପରିମାଣ",
+    "apisb-params-input": "ଇନ୍‌ପୁଟ୍‌",
+    "apisb-params-desc": "ବିବରଣୀ",
+    "apisb-loading": "ଲୋଡ଼ ହେଉଛି...",
+    "apisb-load-error": "API ବିବରଣୀ ଲୋଡ଼ କରିବାରେ ଅସୁବିଧା",
+    "apisb-request-error": "API ଅନୁରୋଧ କାର୍ଯ୍ୟକାରୀ କରିବାରେ ଅସୁବିଧା",
+    "apisb-namespaces-error": "ନେମସ୍ପେସ ଲୋଡ଼ କରିବାରେ ଅସୁବିଧା",
+    "apisb-ns-main": "(ମୂଳ)",
+    "apisb-submit": "ଅନୁରୋଧ କରିବେ",
+    "apisb-query-prop": "ସଜାଣି",
+    "apisb-query-list": "ତାଲିକା",
+    "apisb-query-meta": "ମେଟା ତଥ୍ୟ",
+    "apisb-example": "ଉଦାହରଣ",
+    "apisb-examples": "ଉଦାହରଣ",
+    "apisb-clear": "ଖାଲି କରିଦିଅନ୍ତୁ",
+    "apisb-request-time": "ଅନୁରୋଧ ସମୟ: $1"
+}

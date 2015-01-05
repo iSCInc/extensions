@@ -1,0 +1,23 @@
+{
+    "@metadata": {
+        "authors": [
+            "Aftab1995",
+            "Bellayet"
+        ]
+    },
+    "apisb-legend-result": "ফলাফল",
+    "apisb-label-format": "ফরম্যাট",
+    "apisb-select-value": "(মান নির্বাচন)",
+    "apisb-docs-more": "আরও পড়ুন",
+    "apisb-params-input": "ইনপুট",
+    "apisb-params-desc": "বিবরণ",
+    "apisb-loading": "লোডিং...",
+    "apisb-ns-main": "(প্রধান)",
+    "apisb-submit": "অনুরোধ রাখুন",
+    "apisb-query-prop": "বৈশিষ্ট্য",
+    "apisb-query-list": "তালিকা",
+    "apisb-query-meta": "মেটা তথ্য",
+    "apisb-example": "উদাহরণ",
+    "apisb-examples": "উদাহরণ",
+    "apisb-clear": "পরিস্কার"
+}

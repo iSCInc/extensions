@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pahles"
+		]
+	},
+	"apisb-desc": "Maak 't mäögelik óm [//www.mediawiki.org/wiki/API API-verzeuke veur MediaWiki] vanoet 'ne browser te debugge",
+	"apisandbox": "API-zandjbak",
+	"apisb-no-js": "'''Fout''': dees funktie vereis JavaScript.",
+	"apisb-intro": "Gebroek dees pagina óm te experimentere mit de '''MediaWiki API'''.\nZuuch de [//www.mediawiki.org/wiki/API:Main_page API-dokkemèntatie] veur mier details euver 't gebroek van de API.",
+	"apisb-api-disabled": "API is oetgesjakeld op deze site.",
+	"apisb-legend-result": "Rizzeltaat",
+	"apisb-legend-generic-parameters": "Algemein parameters",
+	"apisb-legend-generator-parameters": "Generator",
+	"apisb-result-request-url": "Verzeuk-URL:",
+	"apisb-result-request-post": "POST-gegaeves:",
+	"apisb-select-action": "Hanjeling selektere",
+	"apisb-select-value": "Selekteer waerde",
+	"apisb-loading": "Laje…",
+	"apisb-load-error": "Fout bie 't laje van de API-besjrieving",
+	"apisb-request-error": "Fout bie 't oetveure van 't API-verzeuk",
+	"apisb-namespaces-error": "Fout bie 't laje van de naamruumdes",
+	"apisb-ns-main": "(Hoofnaamruumde)",
+	"apisb-submit": "Verzeuk oetveure",
+	"apisb-query-prop": "Eigensjappe",
+	"apisb-query-list": "Lieste",
+	"apisb-query-meta": "Meta-infermasie"
+}

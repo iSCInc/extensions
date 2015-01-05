@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"គីមស៊្រុន"
+		]
+	},
+	"apisb-loading": "កំពុងផ្ទុក…",
+	"apisb-load-error": "បញ្ហាក្នុងការផ្ទុកការពណ៌នា API",
+	"apisb-request-error": "បញ្ហាក្នុងការបំពេញសំណើ API",
+	"apisb-namespaces-error": "បញ្ហាក្នុងការផ្ទុកលំហឈ្មោះ",
+	"apisb-ns-main": "(ទូទៅ)",
+	"apisb-submit": "ដាក់សំណើ",
+	"apisb-query-prop": "លក្ខណៈសម្បត្តិ",
+	"apisb-query-list": "បញ្ជី",
+	"apisb-query-meta": "ព័ត៌មានមេតា",
+	"apisb-example": "ឧទាហរណ៍",
+	"apisb-examples": "ឧទាហរណ៍",
+	"apisb-clear": "ជម្រះ",
+	"apisb-request-time": "រយៈពេលធ្វើសំណើ៖ $1"
+}

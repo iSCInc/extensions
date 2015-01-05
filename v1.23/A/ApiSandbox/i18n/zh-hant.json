@@ -1,0 +1,43 @@
+{
+    "@metadata": {
+        "authors": [
+            "Anakmalaysia",
+            "Liangent",
+            "Liuxinyu970226",
+            "Oapbtommy",
+            "Simon Shek"
+        ]
+    },
+    "apisb-desc": "允許從瀏覽器調試[//www.mediawiki.org/wiki/API MediaWiki API]調用",
+    "apisandbox": "API沙箱",
+    "apisb-no-js": "'''錯誤：'''此功能需要JavaScript。",
+    "apisb-intro": "通過此頁面實驗'''MediaWiki線上服務API'''。欲知API使用詳情，請參見[//www.mediawiki.org/wiki/API:Main_page API文檔]。例如：[//www.mediawiki.org/wiki/API#A_simple_example 取得某個主頁的內容]。然後選擇一個操作來看更多範例。請注意，雖然此為沙盒，但您於此頁面之操作將更改全wiki。",
+    "apisb-api-disabled": "此站點上禁用了API。",
+    "apisb-legend-parameters": "參數",
+    "apisb-legend-result": "結果",
+    "apisb-legend-generic-parameters": "通用參數",
+    "apisb-legend-generator-parameters": "生成器",
+    "apisb-result-request-url": "請求的 URL：",
+    "apisb-result-request-post": "POST數據：",
+    "apisb-label-format": "格式",
+    "apisb-label-action": "操作",
+    "apisb-label-doc": "說明",
+    "apisb-select-action": "（選擇動作）",
+    "apisb-select-value": "（選擇值）",
+    "apisb-docs-more": "閱讀更多",
+    "apisb-params-input": "輸入",
+    "apisb-params-desc": "說明",
+    "apisb-loading": "正在載入...",
+    "apisb-load-error": "加載 API 說明時出錯",
+    "apisb-request-error": "執行 API 請求時出錯",
+    "apisb-namespaces-error": "載入名字空間出錯",
+    "apisb-ns-main": "（主）",
+    "apisb-submit": "提出要求",
+    "apisb-query-prop": "屬性",
+    "apisb-query-list": "列表",
+    "apisb-query-meta": "Meta 信息",
+    "apisb-example": "示例",
+    "apisb-examples": "示例",
+    "apisb-clear": "清除",
+    "apisb-request-time": "請求時間：$1"
+}

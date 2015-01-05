@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joachim Mos"
+		]
+	},
+	"apisb-legend-parameters": "Parameters",
+	"apisb-legend-result": "Resultat",
+	"apisb-label-format": "Format",
+	"apisb-label-action": "Akschoon",
+	"apisb-label-doc": "Dokumentatschoon",
+	"apisb-params-input": "Ingave",
+	"apisb-params-desc": "Beschrieven",
+	"apisb-loading": "Läädt…",
+	"apisb-ns-main": "(Hööft-)",
+	"apisb-query-prop": "Egenschapen",
+	"apisb-query-list": "Listen",
+	"apisb-query-meta": "Metainformatschonen",
+	"apisb-example": "Bispeel",
+	"apisb-examples": "Bispelen"
+}

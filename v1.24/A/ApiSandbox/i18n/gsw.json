@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Als-Holder"
+		]
+	},
+	"apisb-desc": "Macht s Korrigiere vu Fähler bi Ufruef vu dr [//www.mediawiki.org/wiki/API MediaWiki-API] mit em Browser megli",
+	"apisandbox": "API-Sandchaschte",
+	"apisb-no-js": "'''Fähler:''' Die Funktion brucht JavaSkript.",
+	"apisb-intro": "Die Syte chasch bruche fir Versuech mit dr '''MediaWiki-API'''.\nIn dr [//www.mediawiki.org/wiki/API:Main_page/de Dokumäntation zue dr API] het s no meh Hiiwys zue ihre Nutzig. Byschpel: [//www.mediawiki.org/wiki/API:Main_page/de#Beispiel Dr Inhalt vu dr Hauptsyte abruefe]. Fir meh Byschpel eini vu dr verfiegbare Aktionen uuswehle.",
+	"apisb-api-disabled": "D API isch uf däm Wiki deaktiviert wore.",
+	"apisb-legend-parameters": "Parameter",
+	"apisb-legend-result": "Ergebnis",
+	"apisb-legend-generic-parameters": "Generischi Parameter",
+	"apisb-legend-generator-parameters": "Generator",
+	"apisb-result-request-url": "Aaforderigs-URL:",
+	"apisb-result-request-post": "POST-Date:",
+	"apisb-label-format": "Format",
+	"apisb-label-action": "Aktion",
+	"apisb-label-doc": "Dokumäntation",
+	"apisb-select-action": "(Aktion uuswehle)",
+	"apisb-select-value": "(Wärt uuswehle)",
+	"apisb-docs-more": "Meh",
+	"apisb-params-input": "Yygab",
+	"apisb-params-desc": "Bschryybig",
+	"apisb-loading": "Am Lade …",
+	"apisb-load-error": "Fähler bim Lade vu dr API-Bschryybig",
+	"apisb-request-error": "Fähler bim Uusfiere vu dr API-Aaforderig",
+	"apisb-namespaces-error": "Fähler bim Lade vu dr Namensryym",
+	"apisb-ns-main": "(Haupt)",
+	"apisb-submit": "Aafrog uusfiere",
+	"apisb-query-prop": "Eigeschafte",
+	"apisb-query-list": "Lischte",
+	"apisb-query-meta": "Metainformatione",
+	"apisb-example": "Byyschpil",
+	"apisb-examples": "Byyschpil",
+	"apisb-clear": "Lääre",
+	"apisb-request-time": "Aafrogzyt: $1"
+}

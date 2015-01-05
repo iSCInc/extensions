@@ -1,0 +1,40 @@
+{
+	"@metadata": {
+		"authors": [
+			"Haqmar",
+			"Sagan"
+		]
+	},
+	"apisb-desc": "Браузерҙан мөрәжәғәттә яйға һала [//www.mediawiki.org/wiki/API MediaWiki API]",
+	"apisandbox": "API һынау урыны",
+	"apisb-no-js": "\"Хата\". Бының өсөн JavaScript талап ителә.",
+	"apisb-intro": "''MediaWiki API''' өйрәнеү бите.  API ҡулланыу тураһында белешмә алыу өсөн [//www.mediawiki.org/wiki/API:Main_page API документацияһы]на мөрәжәғәт итегеҙ. Мәҫәләң, [//www.mediawiki.org/wiki/API#A_simple_example Башбит эстәлеген нисек алырға]. Башҡа миҫалдарҙы күреү өсөн ғәмәлде ҡулланығыҙ.",
+	"apisb-api-disabled": "Был сайтта API һүндерелгән.",
+	"apisb-legend-parameters": "Параметр",
+	"apisb-legend-result": "Һөҙөмтә",
+	"apisb-legend-generic-parameters": "Дөйөм параметрҙар",
+	"apisb-legend-generator-parameters": "Генератор",
+	"apisb-result-request-url": "Һоратыуҙың URL-адресы:",
+	"apisb-result-request-post": "POST мәғлүмәттәр:",
+	"apisb-label-format": "Формат",
+	"apisb-label-action": "Ғәмәл",
+	"apisb-label-doc": "Документация",
+	"apisb-select-action": "Ғәмәлде һайларға",
+	"apisb-select-value": "(дәүмәлен һайлағыҙ)",
+	"apisb-docs-more": "тулыраҡ",
+	"apisb-params-input": "Инеш",
+	"apisb-params-desc": "Тасуирлама",
+	"apisb-loading": "Асыла...",
+	"apisb-load-error": "API тасуирламаһын тейәгәндә хата китте",
+	"apisb-request-error": "API мөрәжәғәтен башҡарғанда хата китте",
+	"apisb-namespaces-error": "Исемдәр арауығын тейәгәндә хата китте",
+	"apisb-ns-main": "(Төп)",
+	"apisb-submit": "Һоратыу яһарға",
+	"apisb-query-prop": "Үҙенсәлектәр",
+	"apisb-query-list": "Исемлектәр",
+	"apisb-query-meta": "Мета-мәғлүмәт",
+	"apisb-example": "Миҫал",
+	"apisb-examples": "Миҫалдар",
+	"apisb-clear": "Таҙарт",
+	"apisb-request-time": "Мөрәжәғәт ваҡыты:$1"
+}

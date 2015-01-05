@@ -1,0 +1,43 @@
+{
+    "@metadata": {
+        "authors": [
+            "Danmichaelo",
+            "EivindJ",
+            "Nghtwlkr"
+        ]
+    },
+    "apisb-desc": "Tillater å feilsøke [//www.mediawiki.org/wiki/API MediaWiki API]-kall fra nettleseren",
+    "apisandbox": "API-sandkasse",
+    "apisb-no-js": "'''Feil''': denne funksjonen krever JavaScript.",
+    "apisb-intro": "Bruk denne siden for å eksperimentere med '''MediaWiki web service APIet'''.\nSjekk [//www.mediawiki.org/wiki/API:Main_page API-dokumentasjonen] for mer informasjon om bruk av APIet. Eksempel: [//www.mediawiki.org/wiki/API#A_simple_example hente innholdet til en hovedside]. Velg en handling for å se flere eksempler.\n\nMerk at du kan utføre handlinger her som fører til endringer på wikien.",
+    "apisb-api-disabled": "API er deaktivert på dette nettstedet.",
+    "apisb-legend-parameters": "Parametre",
+    "apisb-legend-result": "Resultat",
+    "apisb-legend-generic-parameters": "Generiske parametre",
+    "apisb-legend-generator-parameters": "Generator",
+    "apisb-result-request-url": "Forespurt URL:",
+    "apisb-result-request-post": "POST-data:",
+    "apisb-label-format": "Format",
+    "apisb-label-action": "Handling",
+    "apisb-label-doc": "Dokumentasjon",
+    "apisb-select-action": "Velg handling",
+    "apisb-select-query": "(velg forespørsel)",
+    "apisb-select-value": "(velg verdi)",
+    "apisb-docs-more": "les mer",
+    "apisb-params-param": "Parameter",
+    "apisb-params-input": "Inndata",
+    "apisb-params-desc": "Beskrivelse",
+    "apisb-loading": "Laster...",
+    "apisb-load-error": "Feil under lasting av API-beskrivelse",
+    "apisb-request-error": "Feil under utføring av API-forespørsel",
+    "apisb-namespaces-error": "Feil under lasting av navnerom",
+    "apisb-ns-main": "(Hoved)",
+    "apisb-submit": "Foreta en forespørsel",
+    "apisb-query-prop": "Egenskaper",
+    "apisb-query-list": "Lister",
+    "apisb-query-meta": "Metainformasjon",
+    "apisb-example": "Eksempel",
+    "apisb-examples": "Eksempler",
+    "apisb-clear": "Tilbakestill",
+    "apisb-request-time": "Forespørselstid: $1"
+}

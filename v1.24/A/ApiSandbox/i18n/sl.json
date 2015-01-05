@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dbc334"
+		]
+	},
+	"apisb-desc": "Omogoča popravljanje napak klicev [//www.mediawiki.org/wiki/API MediaWiki API] iz brskalnika",
+	"apisandbox": "Peskovnik API",
+	"apisb-no-js": "'''Napaka''': funkcija potrebuje JavaScript.",
+	"apisb-intro": "Uporabite to stran za preizkušanje '''API spletnih storitev MediaWiki'''.\nOglejte si [//www.mediawiki.org/wiki/API:Main_page dokumentacijo API] za nadaljnje podrobnosti o uporabi API. Primer: [//www.mediawiki.org/wiki/API#A_simple_example pridobi vsebino Glavne strani]. Izberite dejanje, da si ogledate več primerov.\n\nPomnite, da čeprav je to peskovnik, bodo dejanja, izvedena na tej strani, morda spremenila wiki.",
+	"apisb-api-disabled": "API je onemogočen na tej spletni strani.",
+	"apisb-legend-parameters": "Parametri",
+	"apisb-legend-result": "Rezultat",
+	"apisb-legend-generic-parameters": "Generični parametri",
+	"apisb-legend-generator-parameters": "Generator",
+	"apisb-result-request-url": "URL zahteve:",
+	"apisb-result-request-post": "Podatki POST:",
+	"apisb-label-format": "Oblika",
+	"apisb-label-action": "Dejanje",
+	"apisb-label-doc": "Dokumentacija",
+	"apisb-select-action": "Izberite dejanje",
+	"apisb-select-value": "(izberite vrednost)",
+	"apisb-docs-more": "preverite več",
+	"apisb-params-param2": "Parameter za $1",
+	"apisb-params-input": "Vhod",
+	"apisb-params-desc": "Opis",
+	"apisb-params-deprecated": "$1 (zastarelo)",
+	"apisb-loading": "Nalaganje ...",
+	"apisb-load-error": "Napaka pri nalaganju opisa API",
+	"apisb-request-error": "Napak pri izvajanju zahteve API",
+	"apisb-namespaces-error": "Napaka pri nalaganju imenskih prostorov",
+	"apisb-ns-main": "(Osnovno)",
+	"apisb-submit": "Izvedi zahtevo",
+	"apisb-query-prop": "Lastnosti",
+	"apisb-query-list": "Seznami",
+	"apisb-query-meta": "Metapodatki",
+	"apisb-example": "Primer",
+	"apisb-examples": "Primeri",
+	"apisb-clear": "Počisti",
+	"apisb-request-time": "Trajanje zahteve: $1",
+	"apisb-no-module-params": "Modul API $1 nima na voljo nobenih parametrov."
+}

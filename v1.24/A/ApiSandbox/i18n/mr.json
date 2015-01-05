@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"V.narsikar"
+		]
+	},
+	"apisb-desc": "[//www.mediawiki.org/wiki/API मिडियाविकि एपीआय]च्या गणकदोष निवारण्याच्या, न्याहाळकामार्फत दिलेल्या हाकेस, परवानगी देते",
+	"apisandbox": "API धूळपाटी",
+	"apisb-no-js": "'''त्रूटी:'''या तोंडवळ्यास(फिचर) जावास्क्रिप्ट हवी.",
+	"apisb-api-disabled": "या संकेतस्थळावर एपीआय अक्षम केला आहे.",
+	"apisb-legend-parameters": "प्राचले",
+	"apisb-legend-result": "निकाल",
+	"apisb-legend-generic-parameters": "जेनेरिक पॅरामिटर्स",
+	"apisb-legend-generator-parameters": "निर्माता",
+	"apisb-result-request-url": "'यूआरएल'ची विनंती करा:",
+	"apisb-result-request-post": "मजकूर टाका:",
+	"apisb-label-format": "प्रारुप",
+	"apisb-label-action": "क्रिया",
+	"apisb-label-doc": "दस्ताएवजीकरण",
+	"apisb-select-action": "(क्रिया निवडा)",
+	"apisb-select-value": "(किंमत निवडा)",
+	"apisb-docs-more": "अधिक वाचन",
+	"apisb-params-input": "निविष्टी",
+	"apisb-params-desc": "वर्णन",
+	"apisb-loading": "प्रभारण करीत आहे",
+	"apisb-load-error": "एपीआयचे विवरण प्रभारणात त्रूटी",
+	"apisb-request-error": "एपीआय विनंती क्रियान्वयनात त्रूटी",
+	"apisb-namespaces-error": "नामविश्वे प्रभारणात त्रूटी",
+	"apisb-ns-main": "(मुख्य)",
+	"apisb-submit": "विनंती करा",
+	"apisb-query-prop": "गुणधर्म",
+	"apisb-query-list": "याद्या",
+	"apisb-query-meta": "मेटाविषयक माहिती",
+	"apisb-example": "उदाहरण",
+	"apisb-examples": "उदाहरणे",
+	"apisb-clear": "हटवा",
+	"apisb-request-time": "विनंती वेळ:$1"
+}

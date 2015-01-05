@@ -1,0 +1,42 @@
+{
+    "@metadata": {
+        "authors": [
+            "Shirayuki",
+            "Whym"
+        ]
+    },
+    "apisb-desc": "ブラウザーからの [//www.mediawiki.org/wiki/API MediaWiki API] 呼び出しをデバッグできるようにする",
+    "apisandbox": "APIサンドボックス",
+    "apisb-no-js": "'''エラー:''' この機能には JavaScript が必要です。",
+    "apisb-intro": "このページでは、'''MediaWiki ウェブサービス API''' を試用できます。\nAPI の使用方法の詳細は [//www.mediawiki.org/wiki/API:Main_page API のドキュメント]をご覧ください。例: [//www.mediawiki.org/wiki/API#A_simple_example メインページの内容を取得]。アクションを選択すると他の例を閲覧できます。\n\nこれはサンドボックスですが、このページで実行した操作によってウィキが変更される場合があることにご注意ください。",
+    "apisb-api-disabled": "このウェブサイトでは、API は無効になっています。",
+    "apisb-legend-parameters": "引数",
+    "apisb-legend-result": "結果",
+    "apisb-legend-generic-parameters": "汎用的な引数",
+    "apisb-legend-generator-parameters": "ジェネレーター",
+    "apisb-result-request-url": "リクエスト URL:",
+    "apisb-result-request-post": "POST データ:",
+    "apisb-label-format": "形式",
+    "apisb-label-action": "操作",
+    "apisb-label-doc": "説明書",
+    "apisb-select-action": "(操作を選択)",
+    "apisb-select-value": "(値を選択)",
+    "apisb-docs-more": "続きを読む",
+    "apisb-params-param2": "$1 の引数",
+    "apisb-params-input": "入力",
+    "apisb-params-desc": "説明",
+    "apisb-params-deprecated": "$1 (廃止予定)",
+    "apisb-loading": "読み込み中...",
+    "apisb-load-error": "API の説明の読み込み中のエラー",
+    "apisb-request-error": "API リクエストの実行中のエラー",
+    "apisb-namespaces-error": "名前空間の読み込みエラー",
+    "apisb-ns-main": "(標準)",
+    "apisb-submit": "リクエストする",
+    "apisb-query-prop": "プロパティ",
+    "apisb-query-list": "一覧",
+    "apisb-query-meta": "メタ情報",
+    "apisb-example": "例",
+    "apisb-examples": "例",
+    "apisb-clear": "消去",
+    "apisb-request-time": "リクエスト時間: $1"
+}

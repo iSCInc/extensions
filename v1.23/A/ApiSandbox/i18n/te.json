@@ -1,0 +1,41 @@
+{
+    "@metadata": {
+        "authors": [
+            "Chaduvari",
+            "Ravichandra",
+            "Veeven"
+        ]
+    },
+    "apisandbox": "API ప్రయోగశాల",
+    "apisb-no-js": "'''లోపం:''' ఈ సౌలభ్యానికి జావాస్క్రిప్టు ఆవశ్యకం.",
+    "apisb-api-disabled": "ఈ సైటులో API అచేతనమై ఉంది.",
+    "apisb-legend-parameters": "పరామితులు",
+    "apisb-legend-result": "ఫలితం",
+    "apisb-legend-generic-parameters": "సాధారణ పరామితులు",
+    "apisb-legend-generator-parameters": "జనరేటర్",
+    "apisb-result-request-url": "అభ్యర్థన URL:",
+    "apisb-result-request-post": "POST డేటా:",
+    "apisb-label-format": "విధానం",
+    "apisb-label-action": "చర్య",
+    "apisb-label-doc": "పత్రావళి",
+    "apisb-select-action": "చర్యను ఎంచుకోండి",
+    "apisb-select-value": "(విలువని ఎంచుకోండి)",
+    "apisb-docs-more": "మరింత చదవండి",
+    "apisb-params-param2": "$1 కొరకు పరామితి",
+    "apisb-params-input": "ఇన్‌పుట్",
+    "apisb-params-desc": "వివరణ",
+    "apisb-params-deprecated": "$1 (విసర్జించబడినది)",
+    "apisb-loading": "లోడవుతోంది...",
+    "apisb-load-error": "API వివరణ చూపించడంలో లోపం",
+    "apisb-request-error": "API అభ్యర్థనను మన్నించడంలో లోపం",
+    "apisb-namespaces-error": "పేరుబరులను లోడు చెయ్యడంలో లోపం",
+    "apisb-ns-main": "(మొదటి)",
+    "apisb-submit": "అభ్యర్ధించు",
+    "apisb-query-prop": "ధర్మాలు (లక్షణాలు)",
+    "apisb-query-list": "జాబితాలు",
+    "apisb-query-meta": "మెటా సమాచారం",
+    "apisb-example": "ఉదాహరణ",
+    "apisb-examples": "ఉదాహరణలు",
+    "apisb-clear": "తుడిచివేయి",
+    "apisb-request-time": "అభ్యర్ధన సమయం: $1"
+}

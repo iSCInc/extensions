@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"GreenZeb",
+			"Papuass"
+		]
+	},
+	"apisandbox": "API smilškaste",
+	"apisb-api-disabled": "API ir atspējots šajā tīmekļa vietnē.",
+	"apisb-legend-parameters": "Parametri",
+	"apisb-legend-result": "Rezultāts",
+	"apisb-result-request-url": "Pieprasījuma URL:",
+	"apisb-result-request-post": "POST dati:",
+	"apisb-label-format": "Formāts",
+	"apisb-label-action": "Darbība",
+	"apisb-label-doc": "Dokumentācija",
+	"apisb-params-desc": "Apraksts",
+	"apisb-loading": "Ielādē…",
+	"apisb-query-list": "Saraksti",
+	"apisb-example": "Piemērs",
+	"apisb-examples": "Piemēri",
+	"apisb-clear": "Notīrīt",
+	"apisb-request-time": "Pieprasījuma izpildes laiks: $1"
+}

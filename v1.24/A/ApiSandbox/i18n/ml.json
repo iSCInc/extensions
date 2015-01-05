@@ -1,0 +1,43 @@
+{
+	"@metadata": {
+		"authors": [
+			"Junaidpv",
+			"Praveenp"
+		]
+	},
+	"apisb-desc": "ബ്രൗസർ ഉപയോഗിച്ച് [//www.mediawiki.org/wiki/API മീഡിയവിക്കി എ.പി.ഐ.] വിളികൾ പരിശോധിക്കാൻ അനുവദിക്കുന്നു",
+	"apisandbox": "എ.പി.ഐ. എഴുത്തുകളരി",
+	"apisb-no-js": "'''പിഴവ്''': ഈ ഉപകരണത്തിന് ജാവാസ്ക്രിപ്റ്റ് ആവശ്യമാണ്.",
+	"apisb-intro": "'''മീഡിയവിക്കി വെബ്‌ സെർവീസ് എ.പി.ഐ.'''യിൽ പരീക്ഷണങ്ങൾ നടത്താൻ ഈ താൾ ഉപയോഗിക്കുക.\nഎ.പി.ഐ.യുടെ ഉപയോഗത്തെക്കുറിച്ചുള്ള കൂടുതൽ വിവരങ്ങൾക്കായി [//www.mediawiki.org/wiki/API:Main_page the എ.പി.ഐ. സഹായം] പരിശോധിക്കുക. ഉദാഹരണം: [//www.mediawiki.org/wiki/API#A_simple_example പ്രധാന താളിന്റെ ഉള്ളടക്കം എടുക്കുക]. കൂടുതൽ ഉദാഹരണങ്ങൾക്കായി പ്രവൃത്തി തിരഞ്ഞെടുക്കുക.\n\nഇതൊരു പരീക്ഷണകളരിയാണെങ്കിലും ഇവിടെ ചെയ്യുന്നവ വിക്കിയിൽ മാറ്റങ്ങൾ വരുത്തിയേക്കാമെന്ന് ഓർക്കുക.",
+	"apisb-api-disabled": "ഈ സൈറ്റിൽ എ.പി.ഐ. പ്രവർത്തനരഹിതമാക്കിയിരിക്കുന്നു.",
+	"apisb-legend-parameters": "ചരങ്ങൾ",
+	"apisb-legend-result": "ഫലം",
+	"apisb-legend-generic-parameters": "പൊതു ചരങ്ങൾ",
+	"apisb-legend-generator-parameters": "നിർമ്മിതി ഉപകരണം",
+	"apisb-result-request-url": "അഭ്യർത്ഥനാ യൂ.ആർ.എൽ.:",
+	"apisb-result-request-post": "POST വിവരം:",
+	"apisb-label-format": "വിന്യാസം",
+	"apisb-label-action": "പ്രവൃത്തി",
+	"apisb-label-doc": "സഹായം",
+	"apisb-select-action": "പ്രവൃത്തി തിരഞ്ഞെടുക്കുക",
+	"apisb-select-value": "(വില തിരഞ്ഞെടുക്കുക)",
+	"apisb-docs-more": "കൂടുതൽ വായിക്കുക",
+	"apisb-params-param2": "$1 എന്ന ഘടകത്തിനുള്ള ചരം",
+	"apisb-params-input": "ഇൻപുട്ട്",
+	"apisb-params-desc": "വിവരണം",
+	"apisb-params-deprecated": "$1 (ഒഴിവാക്കി)",
+	"apisb-loading": "ശേഖരിക്കുന്നു...",
+	"apisb-load-error": "എ.പി.ഐ. വിവരണം ശേഖരിക്കുന്നതിൽ പിഴവുണ്ടായി",
+	"apisb-request-error": "എ.പി.ഐ. അഭ്യർത്ഥന നടപ്പിൽ വരുത്തുന്നതിൽ പിഴവുണ്ടായി",
+	"apisb-namespaces-error": "നാമമേഖലകൾ ശേഖരിക്കുന്നതിൽ പിഴവുണ്ടായി",
+	"apisb-ns-main": "(മുഖ്യം)",
+	"apisb-submit": "അഭ്യർത്ഥിക്കുക",
+	"apisb-query-prop": "സവിശേഷതകൾ",
+	"apisb-query-list": "പട്ടികകൾ",
+	"apisb-query-meta": "മെറ്റ വിവരങ്ങൾ",
+	"apisb-example": "ഉദാഹരണം",
+	"apisb-examples": "ഉദാഹരണങ്ങൾ",
+	"apisb-clear": "ശൂന്യമാക്കുക",
+	"apisb-request-time": "നടപ്പിലാക്കാൻ എടുത്ത സമയം: $1",
+	"apisb-no-module-params": "എ.പി.ഐ. ഘടകം $1 യാതൊരു ചരങ്ങളും നൽകുന്നില്ല."
+}

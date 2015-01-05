@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ansumang",
+			"Shubha"
+		]
+	},
+	"apisb-legend-parameters": "परिमितिः",
+	"apisb-legend-result": "परिणामम्",
+	"apisb-legend-generator-parameters": "उत्पादकः",
+	"apisb-label-format": "प्रारूपम्",
+	"apisb-label-action": "क्रिया",
+	"apisb-docs-more": "अधिकं पठतु",
+	"apisb-params-input": "निवेष्यम्",
+	"apisb-params-desc": "वर्णनम्",
+	"apisb-loading": "आरोप्यमाणमस्ति.....",
+	"apisb-ns-main": "(मुख्य)",
+	"apisb-submit": "निवेदनं करोतु",
+	"apisb-query-prop": "गुणधर्माः",
+	"apisb-query-list": "सूच्यः",
+	"apisb-example": "उदाहरणम्",
+	"apisb-examples": "उदाहरणानि",
+	"apisb-clear": "स्वच्छीक्रियताम्"
+}

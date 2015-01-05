@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"AnakngAraw"
+		]
+	},
+	"apisb-desc": "Nagpapahintulot ng pagkumpuni ng mga pagtawag ng [//www.mediawiki.org/wiki/API MediaWiki API] mula sa pantingin-tingin",
+	"apisandbox": "Kahong buhanginan ng API",
+	"apisb-no-js": "'''Kamalian''': nangangailangan ng JavaScript ang tampok na ito.",
+	"apisb-intro": "Gamitin ang pahinang ito upang mag-eksperimento sa pamamagitan ng '''Paglilingkod na pangsangkasaputan ng API ng MediaWiki'''.\nSumangguni sa [//www.mediawiki.org/wiki/API:Main_page dokumentasyon ng API] para sa karagdagan pang mga detalye sa paggamit ng API. Halimbawa: [//www.mediawiki.org/wiki/API#A_simple_example kuhanin ang nilalaman ng isang Pangunahing Pahina]. Pumili ng isang galaw upang makakita ng mas marami pang mga halimbawa.",
+	"apisb-api-disabled": "Hindi pinagagana ang API sa sityong ito.",
+	"apisb-legend-parameters": "Mga parametro",
+	"apisb-legend-result": "Kinalabasan",
+	"apisb-legend-generic-parameters": "Mga parametrong panlahat",
+	"apisb-legend-generator-parameters": "Panlikha",
+	"apisb-result-request-url": "Hilingin ang URL:",
+	"apisb-result-request-post": "Dato ng POST:",
+	"apisb-label-format": "Anyo",
+	"apisb-label-action": "Galaw",
+	"apisb-label-doc": "Kasulatan",
+	"apisb-select-action": "Piliin ang kilos",
+	"apisb-select-value": "(piliin ang halaga)",
+	"apisb-docs-more": "magbasa pa ng iba",
+	"apisb-params-input": "Pampasok",
+	"apisb-params-desc": "Paglalarawan",
+	"apisb-loading": "Ikinakarga...",
+	"apisb-load-error": "Kamalian sa pagkakarga ng paglalarawan ng API",
+	"apisb-request-error": "Kamalian sa pagsasagawa ng hiling ng API",
+	"apisb-namespaces-error": "Kamalian sa pagkakarga ng mga puwang ng pangalan",
+	"apisb-ns-main": "(Pangunahin)",
+	"apisb-submit": "Gumawa ng kahilingan",
+	"apisb-query-prop": "Mga katangiang-ari",
+	"apisb-query-list": "Mga talaan",
+	"apisb-query-meta": "Kabatirang meta",
+	"apisb-example": "Halimbawa",
+	"apisb-examples": "Mga halimbawa",
+	"apisb-clear": "Hawiin",
+	"apisb-request-time": "Oras ng paghiling: $1"
+}

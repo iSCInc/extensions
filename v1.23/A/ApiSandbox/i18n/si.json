@@ -1,0 +1,41 @@
+{
+    "@metadata": {
+        "authors": [
+            "පසිඳු කාවින්ද"
+        ]
+    },
+    "apisb-desc": "ගවේෂකයෙන් [//www.mediawiki.org/wiki/API මාධ්‍යවිකි API] ඇමතුම්වල දෝෂ ඉවත් කිරීමට ඉඩදෙන්න",
+    "apisandbox": "API වැලිපිල්ල",
+    "apisb-no-js": "'''දෝෂය''': මෙම ගුණාංගය සඳහා ජාවාස්ක්‍රිප්ට් අවශ්‍ය වේ.",
+    "apisb-intro": "'''මාධ්‍යවිකි API''' සමඟ අත්හදා බැලීම සඳහා මෙම පිටුව භාවිතා කරන්න.\n\tAPI භාවිතය පිලිබඳ වැඩිදුර විස්තර සඳහා  [//www.mediawiki.org/wiki/API:Main_page API ප්‍රලේඛනය] හී ඉල්ලීමක් කරන්න.",
+    "apisb-api-disabled": "මෙම අඩවියෙහි API අක්‍රීය කොට ඇත.",
+    "apisb-legend-parameters": "පරාමිතීන්",
+    "apisb-legend-result": "ප්‍රතිඵලය",
+    "apisb-legend-generic-parameters": "ප්‍රජාතීය පරාමිතීන්",
+    "apisb-legend-generator-parameters": "උත්පාදකය",
+    "apisb-result-request-url": "URL ලිපිනය අයදින්න:",
+    "apisb-result-request-post": "POST දත්ත:",
+    "apisb-label-format": "ආකෘතිය",
+    "apisb-label-action": "ක්‍රියාව",
+    "apisb-label-doc": "ප්‍රලේඛනය",
+    "apisb-select-action": "කාර්ය තෝරන්න",
+    "apisb-select-query": "ප්‍රශ්නය කුමක්ද?",
+    "apisb-select-value": "(අගය තෝරන්න)",
+    "apisb-docs-more": "තවත් කියවන්න",
+    "apisb-params-param": "පරාමිතිය",
+    "apisb-params-input": "ආදානය",
+    "apisb-params-desc": "විස්තරය",
+    "apisb-loading": "පූරණය වෙමින්...",
+    "apisb-load-error": "API විස්තරය පූරණය වීමේ දෝෂය",
+    "apisb-request-error": "API අයදුම රඟ දැක්වීමේ දෝෂය",
+    "apisb-namespaces-error": "නාමඅවකාශ පූර්ණය කිරීමේ දෝෂය",
+    "apisb-ns-main": "(ප්‍රධාන)",
+    "apisb-submit": "අයදුමක් සිදු කරන්න",
+    "apisb-query-prop": "ගුණ",
+    "apisb-query-list": "ලැයිස්තු",
+    "apisb-query-meta": "මෙටා තොරතුරු",
+    "apisb-example": "නිදසුන",
+    "apisb-examples": "නිදසුන්",
+    "apisb-clear": "හිස් කරන්න",
+    "apisb-request-time": "අයැදු කාලය: $1"
+}

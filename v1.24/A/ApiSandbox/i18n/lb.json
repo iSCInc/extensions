@@ -1,0 +1,39 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby",
+			"Soued031"
+		]
+	},
+	"apisandbox": "API-Sandkëscht",
+	"apisb-no-js": "'''Feeler''': dës Funktioun brauch JavaScript",
+	"apisb-api-disabled": "API ass op dësem Site ausgeschalt.",
+	"apisb-legend-parameters": "Parameteren",
+	"apisb-legend-result": "Resultat",
+	"apisb-legend-generic-parameters": "Generesch Parameter",
+	"apisb-legend-generator-parameters": "Generateur",
+	"apisb-result-request-url": "URL fir Ufroen:",
+	"apisb-result-request-post": "POST-Donnéeën:",
+	"apisb-label-format": "Format",
+	"apisb-label-action": "Aktioun",
+	"apisb-label-doc": "Dokumentatioun",
+	"apisb-select-action": "Aktioun eraussichen",
+	"apisb-select-value": "(Wäert eraussichen)",
+	"apisb-docs-more": "liest méi",
+	"apisb-params-param2": "Parameter fir $1",
+	"apisb-params-desc": "Beschreiwung",
+	"apisb-params-deprecated": "$1 (vereelst)",
+	"apisb-loading": "Lueden...",
+	"apisb-load-error": "Feeler beim Luede vun der API- Beschreiwung",
+	"apisb-request-error": "Feeler bei der API-Ufro",
+	"apisb-namespaces-error": "Feeler beim Luede vun den Nummraim",
+	"apisb-ns-main": "(Haapt)",
+	"apisb-submit": "Ufro maachen",
+	"apisb-query-prop": "Eegeschaften",
+	"apisb-query-list": "Lëschten",
+	"apisb-query-meta": "Meta-Informatioun",
+	"apisb-example": "Beispill",
+	"apisb-examples": "Beispiller",
+	"apisb-clear": "Eidel maachen",
+	"apisb-request-time": "Zäitpunkt vun der Ufro: $1"
+}

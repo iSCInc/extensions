@@ -1,0 +1,24 @@
+{
+    "@metadata": {
+        "authors": [
+            "Amir a57",
+            "E THP",
+            "පසිඳු කාවින්ද"
+        ]
+    },
+    "apisb-legend-result": "نتیجه",
+    "apisb-label-format": "فورمت",
+    "apisb-label-action": "فعالیت",
+    "apisb-params-param": "پارامتر",
+    "apisb-params-input": "گیریش",
+    "apisb-params-desc": "شرح",
+    "apisb-loading": "یوکلنیر...",
+    "apisb-ns-main": "(آنا)",
+    "apisb-query-prop": "اؤزلیکلر",
+    "apisb-query-list": "سییاهه‌لر",
+    "apisb-query-meta": "مئتا بیلگی‌لری",
+    "apisb-example": "میثال",
+    "apisb-examples": "نومونه‌لر",
+    "apisb-clear": "تمیزله",
+    "apisb-request-time": "زامان ایستمک:$1"
+}

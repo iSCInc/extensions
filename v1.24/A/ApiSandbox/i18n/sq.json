@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"GretaDoci"
+		]
+	},
+	"apisb-params-deprecated": "<span class=\"notranslate\" translate=\"asnjë\">$1</span> (deprecated)",
+	"apisb-no-module-params": "API modul <span class=\"notranslate\" translate=\"asnjë\">$1</span> nuk ofron parametrat"
+}

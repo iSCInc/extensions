@@ -1,0 +1,42 @@
+{
+	"@metadata": {
+		"authors": [
+			"Michawiki"
+		]
+	},
+	"apisb-desc": "Zmóžnja wotstronjenje zmylkow při wołanju [//www.mediawiki.org/wiki/API MediaWiki API] z wobhladowaka",
+	"apisandbox": "API-hrajkanišćo",
+	"apisb-no-js": "'''Zmylk''': tuta funkcija sej JavaScript wužaduje.",
+	"apisb-intro": "Wužij tutu stronu, zo by z '''websłužbu Mediawiki API''' eksperimentował.\nHlej [//www.mediawiki.org/wiki/API:Main_page API-dokumentaciju] za dalše podrobnosće za wužiwanje API. Přikład: [//www.mediawiki.org/wiki/API#A_simple_example Wobsah hłowneje strony wotwołać]. Wubjer akciju, zo by dalše přikłady widźał.\n\nDźiwaj na to, zo, hačrunjež to je hrajkanišćo, akcije, kotrež na tutej stronje přewjedźeš, móhli wiki změnić.",
+	"apisb-api-disabled": "API je so na tutym sydle znjemóžnił.",
+	"apisb-legend-parameters": "Parametry",
+	"apisb-legend-result": "Wuslědk",
+	"apisb-legend-generic-parameters": "Powšitkowne parametry",
+	"apisb-legend-generator-parameters": "Generator",
+	"apisb-result-request-url": "URL naprašowanja:",
+	"apisb-result-request-post": "POST-daty:",
+	"apisb-label-format": "Format",
+	"apisb-label-action": "Akcija",
+	"apisb-label-doc": "Dokumentacija",
+	"apisb-select-action": "Akciju wubrać",
+	"apisb-select-value": "(Hódnotu wubrać)",
+	"apisb-docs-more": "dalše informacije",
+	"apisb-params-param2": "Parameter za $1",
+	"apisb-params-input": "Zapodaće",
+	"apisb-params-desc": "Wopisanje",
+	"apisb-params-deprecated": "$1 (zestarjeny)",
+	"apisb-loading": "Začituje so...",
+	"apisb-load-error": "Zmylk při začitowanju API-wopisanja",
+	"apisb-request-error": "Zmylk při přewjedźenju API-naprašowanja",
+	"apisb-namespaces-error": "Zmylk při začitowanju mjenowych rumow",
+	"apisb-ns-main": "(Nastawki)",
+	"apisb-submit": "Naprašowanje přewjesć",
+	"apisb-query-prop": "Kajkosće",
+	"apisb-query-list": "Lisćiny",
+	"apisb-query-meta": "Metainformacije",
+	"apisb-example": "Přikład",
+	"apisb-examples": "Přikłady",
+	"apisb-clear": "Wuprózdnić",
+	"apisb-request-time": "Naprašowanski čas: $1",
+	"apisb-no-module-params": "API-modul $1 parametry njepodawa"
+}

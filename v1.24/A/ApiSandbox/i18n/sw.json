@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kwisha",
+			"Stephenwanjau"
+		]
+	},
+	"apisb-desc": "Imakubali kueua [//www.mediawiki.org/wiki/API MediaWiki API] kutoka kwa kivinjari.",
+	"apisb-legend-result": "Tokeo",
+	"apisb-label-action": "Tendo",
+	"apisb-docs-more": "soma zaidi",
+	"apisb-params-input": "Mchango",
+	"apisb-params-desc": "Maelezo",
+	"apisb-loading": "Inapakiwa...",
+	"apisb-submit": "Weka ombi",
+	"apisb-query-prop": "Sifa",
+	"apisb-query-list": "Orodha",
+	"apisb-query-meta": "Taarifa ya meta",
+	"apisb-example": "Mfano",
+	"apisb-examples": "Mifano",
+	"apisb-clear": "Tandua"
+}
