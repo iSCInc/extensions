@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alvaro Vidal-Abarca"
+		]
+	},
+	"accountaudit-desc": "Audita comptes d'usuari actius/inactius"
+}
