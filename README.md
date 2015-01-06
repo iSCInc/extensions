@@ -1,7 +1,10 @@
 extensions
 ==========
 
-Collects all extensions for a iSC Inc. wiki. Listed under http://extensions.inc.isc.
+Collects all extensions for a iSC Inc. wiki.
+
+# Links
+Listed under http://extensions.inc.isc.
 
 
 ----
