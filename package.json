@@ -1,0 +1,30 @@
+{
+  "name": "iSCInc-mw-extensions",
+  "version": "1.0.0",
+  "description": "Collects all extensions for a iSC Inc. wiki",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iSCInc/extensions.git"
+  },
+  "keywords": [
+    "isc inc",
+    "mediawiki extensions"
+  ],
+  "bugs": {
+    "url": "https://github.com/iSCInc/extensions/issues"
+  },
+  "homepage": "https://github.com/iSCInc/extensions",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "private": true,
+  "dependencies": {
+    "gulp-cache": "^0.2.10",
+    "gulp-copy": "0.0.2",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-using": "0.0.1",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.2.4"
+  }
+}
