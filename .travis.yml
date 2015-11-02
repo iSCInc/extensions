@@ -11,6 +11,7 @@ cache:
   directories:
   - vendor/bundle
   - node_modules
+script: gulp
 install:
   - bundle install --deployment
   - npm install -g gulp
@@ -22,4 +23,3 @@ after_success:
   - npm test
 env:
   global:
-script: gulp
