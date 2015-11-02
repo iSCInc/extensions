@@ -1,4 +1,4 @@
-// Gulpfile for Gulp.js
+// Gulp.js
 
 var gulp = require('gulp');
 
