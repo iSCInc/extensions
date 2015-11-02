@@ -3,7 +3,7 @@
   > Collects all extensions for a iSC Inc. wiki.
 
 ## Links
-Listed under http://extensions.inc.isc.
+Listed under https://extensions.inc.isc.
 
 
 ----
