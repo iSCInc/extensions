@@ -22,3 +22,4 @@ after_success:
   - npm test
 env:
   global:
+script: gulp
