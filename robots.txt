@@ -1,0 +1,4 @@
+# This is only used for QA testing so that we don't duplicate content in any search
+
+User-agent: *
+Disallow: /
