@@ -1,7 +1,9 @@
 # Contributing to the **`iSCInc/extensions`** project
-  > Contributing: submitting patches and newer versions
+  > To get started, <a href="https://www.clahub.com/agreements/iSCInc/extensions">sign the Contributor License Agreement (CLA)</a>.
 
 ## Submitting a pull request
+
+  > Contributing: submitting patches and newer versions
 
 ### Contributor License Agreements (CLA)
 
