@@ -11,7 +11,7 @@
   > Collects all extensions for a iSC Inc. wiki.
 
 ## Links
-Listed under https://extensions.inc.isc.
+All MediaWiki extensions for the iSC Inc. wiki farm are listed soon under https://extensions.inc.isc.
 
 
 ----
