@@ -23,3 +23,12 @@ after_success:
   - npm test
 env:
   global:
+
+## Gitter
+notifications:
+  webhooks:
+    urls:
+      - https://webhooks.gitter.im/e/ef4324116ef803a6abf5
+    on_success: always  # options: [always|never|change] default: always
+    on_failure: always  # options: [always|never|change] default: always
+    on_start: always     # options: [always|never|change] default: always
