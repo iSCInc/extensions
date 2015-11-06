@@ -1,7 +1,5 @@
 # iSC Inc. MediaWiki Extensions 
 
-[![Join the chat at https://gitter.im/iSCInc/extensions](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iSCInc/extensions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 [![iSC Inc. project](https://img.shields.io/badge/iSC Inc. project-extensions-orange.svg?style=flat-square)](https://github.com/iSCInc/extensions)
 [![Project License](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat-square)](https://github.com/iSCInc/extensions/blob/master/LICENSE.md)
 [![Project Contributing Status](https://img.shields.io/badge/Project Status-up to date-yellow.svg?style=flat-square)](https://github.com/iSCInc/extensions/blob/master/CONTRIBUTING.md)
